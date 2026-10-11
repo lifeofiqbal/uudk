@@ -1,11 +1,13 @@
 (() => {
   "use strict";
 
-  const TABS = ["Umum", "Lalin", "Kendaraan"];
+  // const TABS = ["Umum", "Lalin", "Kendaraan"];
+  const TABS = ["Umum", "Kendaraan"];
 
   const state = {
     kategoriUmumOrder: [],
-    pasal: { Umum: [], Lalin: [], Kendaraan: [] },
+    // pasal: { Umum: [], Lalin: [], Kendaraan: [] },
+    pasal: { Umum: [], Kendaraan: [] },
     currentTab: "Umum",
     selectedCodes: new Set(),
     index: new Map(),
@@ -18,13 +20,14 @@
 
   function cacheDom() {
     const ids = [
-      "list-pasal", "search", "tabUmum", "tabLalin", "tabKendaraan", "hasil",
+      "list-pasal", "search", "tabUmum", /* "tabLalin", */ "tabKendaraan", "hasil",
       "dpoCheck", "btnSalin", "btnReset", "toast", "toastText", "descModal",
       "descOverlay", "descClose", "descClose2", "descTitle", "descCode", "descText",
     ];
     ids.forEach((id) => (dom[id] = document.getElementById(id)));
     dom.list = dom["list-pasal"];
-    dom.tabs = { Umum: dom.tabUmum, Lalin: dom.tabLalin, Kendaraan: dom.tabKendaraan };
+    // dom.tabs = { Umum: dom.tabUmum, Lalin: dom.tabLalin, Kendaraan: dom.tabKendaraan };
+    dom.tabs = { Umum: dom.tabUmum, Kendaraan: dom.tabKendaraan };
   }
 
   function asArray(value) {
@@ -43,7 +46,7 @@
     state.dpoMultiplier = Number(settings.dpoMultiplier) > 0 ? Number(settings.dpoMultiplier) : 2;
     state.kategoriUmumOrder = asArray(data.kategoriUmumOrder);
     state.pasal.Umum = asArray(data.pasalUmum);
-    state.pasal.Lalin = asArray(data.pasalLalin);
+    // state.pasal.Lalin = asArray(data.pasalLalin);
     state.pasal.Kendaraan = asArray(data.pasalKendaraan);
 
     state.index.clear();
@@ -237,11 +240,12 @@
           .join("")
       : "<li>Tidak ada pasal dipilih</li>";
 
+    // <p><strong>Total Masa Tahanan (Umum &amp; Lalu Lintas):</strong> ${result.bulan} bulan</p>
     dom.hasil.innerHTML = `
       <h5 class="font-semibold text-yellow-300">Pasal Terpilih (${result.items.length}/${state.maxPasal}):</h5>
       <ul class="mb-2 list-disc pl-5">${list}</ul>
       <p><strong>Total Denda:</strong> ${escapeHtml(formatMoney(result.denda))}</p>
-      <p><strong>Total Masa Tahanan (Umum &amp; Lalu Lintas):</strong> ${result.bulan} bulan</p>
+      <p><strong>Total Masa Tahanan (Umum):</strong> ${result.bulan} bulan</p>
       <p><strong>Total Masa Tahanan (Kendaraan):</strong> ${result.jam} jam</p>
     `;
   }

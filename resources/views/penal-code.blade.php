@@ -57,9 +57,11 @@
                     <button type="button" id="tabUmum" data-tab="Umum" class="tab-btn" role="tab">
                         <i class="bi bi-people-fill"></i><span>Umum</span>
                     </button>
+                    {{--
                     <button type="button" id="tabLalin" data-tab="Lalin" class="tab-btn" role="tab">
                         <i class="bi bi-signpost-2-fill"></i><span>Lalu Lintas</span>
                     </button>
+                    --}}
                     <button type="button" id="tabKendaraan" data-tab="Kendaraan" class="tab-btn" role="tab">
                         <i class="bi bi-car-front-fill"></i><span>Kendaraan</span>
                     </button>

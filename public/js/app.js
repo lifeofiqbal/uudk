@@ -80,7 +80,7 @@
   }
 
   function durationLabel(pasal, source) {
-    if (source === "Kendaraan") return `${toNumber(pasal.jam)} jam`;
+      if (source === "Kendaraan") return `${toNumber(pasal.jam)} jam`;
     return `${toNumber(pasal.bulan)} bulan`;
   }
 

@@ -56,7 +56,7 @@ class PenalCodeService
         ];
 
         if ($jenis === JenisPasal::Kendaraan) {
-            $data['hari'] = (int) ($item['hari'] ?? 0);
+            $data['jam'] = (int) ($item['jam'] ?? $item['hari'] ?? 0);
         }
 
         return $data;

@@ -3,8 +3,8 @@
     "private": true,
     "type": "module",
     "scripts": {
-        "build": "tailwindcss -i resources/css/app.css -o public/css/app.css --minify",
-        "watch": "tailwindcss -i resources/css/app.css -o public/css/app.css --watch"
+        "build:css": "tailwindcss -i resources/css/app.css -o public/css/app.css --minify",
+        "watch:css": "tailwindcss -i resources/css/app.css -o public/css/app.css --watch"
     },
     "devDependencies": {
         "@tailwindcss/cli": "^4.1.0",

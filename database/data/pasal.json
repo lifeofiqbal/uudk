@@ -1,0 +1,1096 @@
+{
+  "kategoriUmumOrder": [
+    "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN",
+    "KEKERASAN SEKSUAL, ETIKA, MORALITAS, PUBLIK",
+    "KEJAHATAN TERHADAP HARTA BENDA",
+    "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK",
+    "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)",
+    "KEJAHATAN TERHADAP BARANG HARAM",
+    "KETERTIBAN UMUM"
+  ],
+  "pasalUmum": [
+    {
+      "kode": "1.1",
+      "nama": "CRIMINAL THREAT (Ancaman Pidana)",
+      "deskripsi": "Seseorang yang membuat pernyataan dengan janji melakukan kejahatan yang dapat menyebabkan kematian atau cedera fisik pada orang lain. Ancaman tersebut dapat disampaikan secara lisan, tertulis, atau melalui media elektronik. Pelaku harus bermaksud menimbulkan rasa takut, dan korban harus merasakan ketakutan tersebut secara wajar.",
+      "bulan": 5,
+      "denda": 150,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "1.2",
+      "nama": "ASSAULT (Penganiayaan)",
+      "deskripsi": "Seseorang bersalah atas Penganiayaan Sederhana jika ia mencoba menyebabkan atau dengan sengaja, sadar, atau sembrono menyebabkan cedera fisik pada orang lain; atau dengan lalai menyebabkan cedera fisik pada orang lain dengan senjata mematikan; atau mencoba dengan ancaman fisik untuk membuat orang lain takut akan cedera fisik serius yang akan segera terjadi.",
+      "bulan": 8,
+      "denda": 200,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "1.3",
+      "nama": "UNLAWFUL IMPRISONMENT (Pemenjaraan yang Melanggar Hukum)",
+      "deskripsi": "Seseorang secara melawan hukum menahan atau mengurung orang lain tanpa persetujuannya (atau persetujuan walinya), tanpa niat sebelumnya, dan untuk jangka waktu kurang dari satu (1) jam. Pemenjaraan yang Melanggar Hukum digolongkan sebagai pelanggaran ringan dan dapat dihukum.",
+      "bulan": 8,
+      "denda": 200,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "1.4",
+      "nama": "BATTERY (Penganiayaan)",
+      "deskripsi": "Seseorang yang dengan sengaja atau sembrono menggunakan kekerasan fisik kepada orang lain, sehingga menyebabkan cedera fisik atau kontak yang menyinggung. Cedera fisik tidak diperlukan selama pelaku bermaksud untuk melukai atau menyinggung melalui kontak tersebut.",
+      "bulan": 15,
+      "denda": 250,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "1.5",
+      "nama": "AGGRAVATED BATTERY (Penganiayaan yang Diperparah)",
+      "deskripsi": "Seseorang bersalah atas Penganiayaan yang Diperparah jika ia mencoba menyebabkan cedera fisik yang serius kepada orang lain, atau menyebabkan cedera tersebut dengan sengaja, sadar, atau sembrono dalam keadaan yang menunjukkan ketidakpedulian yang ekstrem terhadap nilai kehidupan manusia; atau mencoba menyebabkan atau dengan sengaja atau sadar menyebabkan cedera fisik kepada orang lain dengan senjata mematikan.",
+      "bulan": 15,
+      "denda": 300,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "1.6",
+      "nama": "ASSAULT ON A PEACE OFFICER (Penyerangan Terhadap Petugas Polisi)",
+      "deskripsi": "Seseorang yang dengan sengaja atau sembrono menyebabkan cedera fisik, atau menimbulkan rasa takut akan bahaya fisik yang akan segera terjadi, pada pegawai pemerintah atau petugas penegak hukum yang sedang menjalankan tugas resmi secara sah. Ini termasuk petugas federal, negara bagian, atau lokal seperti polisi, petugas pemadam kebakaran, atau pegawai negeri sipil lainnya.",
+      "bulan": 15,
+      "denda": 350,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "1.7",
+      "nama": "BATTERY TOWARDS PEACE OFFICER (Penganiayaan terhadap Petugas Keamanan)",
+      "deskripsi": "Seseorang yang dengan sengaja atau sembrono menimbulkan cedera fisik atau melakukan kontak fisik yang menyinggung terhadap pegawai pemerintah atau petugas penegak hukum yang sedang menjalankan tugas resmi secara sah. Ini termasuk petugas federal, negara bagian, atau lokal seperti polisi, petugas pemadam kebakaran, atau pegawai negeri sipil lainnya.",
+      "bulan": 20,
+      "denda": 450,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "1.8",
+      "nama": "AGGRAVATED BATTERY TOWARDS PEACE OFFICER (Pemukulan Berat terhadap Petugas Polisi)",
+      "deskripsi": "Seseorang yang dengan sengaja atau sembrono menggunakan senjata mematikan untuk menyebabkan cedera fisik, atau menimbulkan rasa takut akan cedera fisik yang akan segera terjadi, pada pegawai pemerintah atau petugas penegak hukum yang sedang menjalankan tugas resmi secara sah. Ini termasuk petugas federal, negara bagian, atau lokal seperti polisi, petugas pemadam kebakaran, atau pegawai negeri sipil lainnya.",
+      "bulan": 25,
+      "denda": 650,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "1.9",
+      "nama": "HOSTAGE TAKING (Penyanderaan)",
+      "deskripsi": "Seseorang secara melawan hukum menangkap atau menahan orang lain dengan tujuan menghindari penangkapan, meningkatkan risiko bahaya bagi korban secara substansial, atau menggunakan orang tersebut sebagai tameng manusia.",
+      "bulan": 15,
+      "denda": 250,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "1.10",
+      "nama": "KIDNAPPING (Penculikan)",
+      "deskripsi": "Seseorang secara melawan hukum menculik dan menahan orang lain di luar kehendaknya. Ini termasuk: menahan seseorang tanpa persetujuan dengan maksud tertentu; menahan seseorang lebih dari satu (1) jam; menyandera seseorang untuk tebusan; atau memindahkan seseorang secara paksa di dalam atau melintasi batas wilayah kabupaten atau kota.",
+      "bulan": 20,
+      "denda": 280,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "1.11",
+      "nama": "KIDNAPPING OF A PEACE OFFICER (Penculikan Petugas Keamanan)",
+      "deskripsi": "Seseorang secara melawan hukum menahan, menculik, atau memenjarakan pegawai pemerintah atau petugas penegak hukum yang sedang menjalankan tugas resmi secara sah.",
+      "bulan": 30,
+      "denda": 350,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "1.12",
+      "nama": "DOMESTIC VIOLENCE (Kekerasan Dalam Rumah Tangga)",
+      "deskripsi": "Seseorang menggunakan kekerasan fisik, emosional, seksual, atau finansial untuk mendapatkan kekuasaan dan kendali atas anggota keluarga, pasangan rumah tangga, atau pasangan intim. Ini dapat mencakup penyerangan fisik, penyerangan seksual, penguntitan, atau pelecehan psikologis dalam pernikahan, pacaran, atau hubungan keluarga.",
+      "bulan": 30,
+      "denda": 450,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "1.13",
+      "nama": "GANG-RELATED SHOOTING (Penembakan Terkait Geng)",
+      "deskripsi": "Seseorang melepaskan tembakan senjata api sehubungan dengan, atau atas nama, suatu geng kriminal. Tindakan tersebut dapat diakibatkan oleh persaingan, pembalasan, atau upaya untuk menegaskan atau mempertahankan kendali teritorial. Penembakan Terkait Geng diklasifikasikan sebagai kejahatan berat dan dapat dihukum dengan hukuman penjara.",
+      "bulan": 15,
+      "denda": 300,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "1.14",
+      "nama": "ATTEMPTED FIRST-DEGREE MURDER (Percobaan Pembunuhan Tingkat Pertama)",
+      "deskripsi": "Seseorang yang mencoba merampas nyawa orang lain secara melawan hukum tanpa perencanaan sebelumnya. Tindakan tersebut biasanya impulsif atau merupakan akibat dari kecerobohan yang ekstrem.",
+      "bulan": 45,
+      "denda": 1000,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "1.15",
+      "nama": "ATTEMPTED SECOND-DEGREE MURDER (Percobaan Pembunuhan Tingkat Dua)",
+      "deskripsi": "Seseorang dengan niat yang disengaja dan terencana, mencoba secara melawan hukum menyebabkan kematian orang lain tetapi gagal. Dakwaan ini melibatkan niat yang jelas untuk membunuh dan perencanaan sebelumnya.",
+      "bulan": 60,
+      "denda": 1800,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "1.16",
+      "nama": "ATTEMPTED MURDER OF A PEACE OFFICER (Percobaan Pembunuhan Petugas Polisi)",
+      "deskripsi": "Seseorang yang mencoba secara melawan hukum menghilangkan nyawa pegawai pemerintah atau petugas penegak hukum yang sedang menjalankan tugas resmi secara sah. Ini termasuk petugas federal, negara bagian, atau lokal seperti polisi, petugas pemadam kebakaran, atau pegawai negeri sipil lainnya.",
+      "bulan": 75,
+      "denda": 2000,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "1.17",
+      "nama": "FIRST-DEGREE MURDER (Pembunuhan Tingkat 1)",
+      "deskripsi": "Seseorang secara hukum membunuh manusia lain dengan niat tetapi tanpa perencanaan sebelumnya. Pembunuhan semacam itu seringkali bersifat impulsif atau merupakan hasil dari kecerobohan yang ekstrem.",
+      "bulan": 150,
+      "denda": 4500,
+      "kategori": "TINDAK PIDANA TERHADAP ORANG DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "2.1",
+      "nama": "STALKING (Penguntitan)",
+      "deskripsi": "Seseorang yang berulang kali dan dengan sengaja melecehkan atau mengintimidasi orang lain, yang menyebabkan korban khawatir akan keselamatannya atau keselamatan keluarganya. Tindakan tersebut dapat mencakup mengikuti atau melacak korban, melakukan panggilan telepon yang tidak diinginkan atau mengancam, atau merusak properti korban.",
+      "bulan": 7,
+      "denda": 150,
+      "kategori": "KEKERASAN SEKSUAL, ETIKA, MORALITAS, PUBLIK"
+    },
+    {
+      "kode": "2.2",
+      "nama": "HARASSMENT (Pelecehan)",
+      "deskripsi": "Seseorang yang melakukan tindakan yang dimaksudkan untuk mengganggu, menimbulkan kekhawatiran, atau menyebabkan tekanan emosional kepada orang lain. Pelecehan diklasifikasikan sebagai pelanggaran ringan dan dapat dihukum dengan hukuman penjara.",
+      "bulan": 10,
+      "denda": 200,
+      "kategori": "KEKERASAN SEKSUAL, ETIKA, MORALITAS, PUBLIK"
+    },
+    {
+      "kode": "2.3",
+      "nama": "INDECENT EXPOSURE (Perilaku Tidak Senonoh)",
+      "deskripsi": "Seseorang yang dengan sengaja memperlihatkan alat kelamin atau bokongnya di depan umum, atau di hadapan orang yang tersinggung atau terganggu. Hal ini merupakan tindak pidana jika dilakukan untuk memuaskan hasrat seksualnya sendiri atau untuk menyebabkan penderitaan.",
+      "bulan": 7,
+      "denda": 150,
+      "kategori": "KEKERASAN SEKSUAL, ETIKA, MORALITAS, PUBLIK"
+    },
+    {
+      "kode": "2.4",
+      "nama": "LEWD OR IMMORTAL CONDUCT (Perilaku Cabul atau Tidak Bermoral)",
+      "deskripsi": "Seseorang yang melakukan perilaku yang dianggap menjurus ke arah seksual atau menyinggung di depan umum, termasuk tindakan seksual, memamerkan diri secara seksual, atau membuat pernyataan atau gestur yang tidak senonoh. Perilaku Cabul atau Tidak Bermoral diklasifikasikan sebagai kejahatan berat dan dapat dihukum dengan hukuman penjara.",
+      "bulan": 10,
+      "denda": 250,
+      "kategori": "KEKERASAN SEKSUAL, ETIKA, MORALITAS, PUBLIK"
+    },
+    {
+      "kode": "2.5",
+      "nama": "SEXUAL HARRASEMENT (Pelecehan Seksual)",
+      "deskripsi": "Seseorang yang melakukan tindakan atau perilaku seksual tanpa persetujuan, termasuk penyerangan seksual atau bentuk-bentuk perilaku tidak senonoh lainnya. Pelecehan Seksual diklasifikasikan sebagai kejahatan berat dan dapat dihukum dengan hukuman penjara.",
+      "bulan": 25,
+      "denda": 400,
+      "kategori": "KEKERASAN SEKSUAL, ETIKA, MORALITAS, PUBLIK"
+    },
+    {
+      "kode": "2.6",
+      "nama": "SEXUAL BATTERY (Kekerasan Seksual)",
+      "deskripsi": "Seseorang yang menyentuh bagian intim orang lain (alat kelamin, anus, atau payudara) tanpa persetujuan, atau memaksa orang lain untuk melakukan sentuhan tersebut. Tindakan tersebut dapat melibatkan penggunaan kekerasan atau ancaman kekerasan.",
+      "bulan": 40,
+      "denda": 450,
+      "kategori": "KEKERASAN SEKSUAL, ETIKA, MORALITAS, PUBLIK"
+    },
+    {
+      "kode": "2.7",
+      "nama": "PROSTITUTION (Prostitusi)",
+      "deskripsi": "Seseorang yang menawarkan atau menyediakan layanan seksual dengan imbalan uang atau bentuk kompensasi apa pun.",
+      "bulan": 50,
+      "denda": 550,
+      "kategori": "KEKERASAN SEKSUAL, ETIKA, MORALITAS, PUBLIK"
+    },
+    {
+      "kode": "3.1",
+      "nama": "LEAVING WITHOUT PAYING (Meninggalkan Tanpa Membayar)",
+      "deskripsi": "Seseorang yang secara melawan hukum memperoleh barang atau jasa dari suatu tempat usaha dan meninggalkan tempat tersebut tanpa membayar.",
+      "bulan": 5,
+      "denda": 150,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+    {
+      "kode": "3.2",
+      "nama": "PETTY THEFT (Pencurian Ringan)",
+      "deskripsi": "Seseorang yang secara melawan hukum mengambil barang milik orang lain.",
+      "bulan": 7,
+      "denda": 180,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+    {
+      "kode": "3.3",
+      "nama": "JOYRIDING (Berkendara Motor Orang Lain)",
+      "deskripsi": "Seseorang yang secara melawan hukum mengambil, mengemudikan, atau menggunakan kendaraan milik orang lain tanpa maksud untuk merampas hak milik tersebut secara permanen.",
+      "bulan": 10,
+      "denda": 200,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+    {
+      "kode": "3.4",
+      "nama": "TAMPERING WITH VEHICLE (Perusakan Kendaraan)",
+      "deskripsi": "Seseorang yang secara melawan hukum merusak, merusak, atau mengganggu pengoperasian kendaraan bermotor milik orang lain.",
+      "bulan": 15,
+      "denda": 250,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+    {
+      "kode": "3.5",
+      "nama": "TRESPASSING (Memasuki Wilayah Orang Lain Tanpa Izin)",
+      "deskripsi": "Seseorang yang secara melawan hukum memasuki atau tetap berada di properti orang lain tanpa izin atau wewenang yang sah.",
+      "bulan": 5,
+      "denda": 150,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+    {
+      "kode": "3.6",
+      "nama": "GRAND THEFT AUTO (Pencurian Kendaraan)",
+      "deskripsi": "Seseorang secara melawan hukum mengambil atau mengemudikan kendaraan milik orang lain, dengan maksud untuk merampas hak milik pemiliknya secara permanen.",
+      "bulan": 15,
+      "denda": 200,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+    {
+      "kode": "3.7",
+      "nama": "GRAND THEFT OF FIREARMS (Pencurian Senjata Api)",
+      "deskripsi": "Seseorang yang secara melawan hukum mengambil senjata api milik orang lain.",
+      "bulan": 15,
+      "denda": 200,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+    {
+      "kode": "3.8",
+      "nama": "ATM ROBBERY (Perampokan ATM)",
+      "deskripsi": "Seseorang yang secara melawan hukum mengambil barang dari ATM dengan cara kekerasan, intimidasi, atau ancaman kekerasan.",
+      "bulan": 20,
+      "denda": 250,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+    {
+      "kode": "3.9",
+      "nama": "STORE ROBBERY (Perampokan Toko/LTD)",
+      "deskripsi": "Seseorang yang secara melawan hukum mengambil barang dari toko dengan cara kekerasan, intimidasi, atau ancaman kekerasan.",
+      "bulan": 25,
+      "denda": 350,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+    {
+      "kode": "3.10",
+      "nama": "BANK ROBBERY (Perampokan Bank)",
+      "deskripsi": "Seseorang yang secara melawan hukum mengambil barang dari bank dengan cara kekerasan, intimidasi, atau ancaman kekerasan.",
+      "bulan": 30,
+      "denda": 500,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+    {
+      "kode": "3.11",
+      "nama": "FIRST-DEGREE ROBBERY (Pembegalan)",
+      "deskripsi": "Seseorang yang melakukan pengambilan harta benda dengan paksa atau ancaman sambil menggunakan senjata mematikan, menyebabkan cedera tubuh yang serius, atau menargetkan lokasi tertentu seperti kendaraan angkutan umum atau rumah tinggal.",
+      "bulan": 45,
+      "denda": 550,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+    {
+      "kode": "3.12",
+      "nama": "EXTORTION (Pemisahan)",
+      "deskripsi": "Seseorang yang secara melawan hukum memperoleh harta benda, uang, atau keuntungan dari orang lain melalui ancaman, paksaan, atau dengan dalih hak resmi.",
+      "bulan": 30,
+      "denda": 400,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+    {
+      "kode": "3.13",
+      "nama": "EMBEZZLEMENT (Penggelapan)",
+      "deskripsi": "Seseorang yang dipercayakan dengan harta milik orang lain, secara curang mengambil harta tersebut untuk kepentingan pribadi.",
+      "bulan": 25,
+      "denda": 300,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+    {
+      "kode": "3.14",
+      "nama": "FORGERY (Pemalsuan)",
+      "deskripsi": "Seseorang yang dengan maksud untuk menipu, membuat, mengubah, atau memalsukan surat atau dokumen yang sah secara hukum.",
+      "bulan": 30,
+      "denda": 400,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+    {
+      "kode": "3.15",
+      "nama": "GRAND LARCENY (Pencurian Besar-Besaran)",
+      "deskripsi": "Seseorang yang secara melawan hukum mengambil barang milik orang lain senilai lima ribu dolar ($5.000) atau lebih.",
+      "bulan": 35,
+      "denda": 650,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+    {
+      "kode": "3.16",
+      "nama": "ROBBERY OF A GOVERNMENT (Perampokan di Lembaga Pemerintah)",
+      "deskripsi": "Seseorang yang secara melawan hukum mengambil barang dengan paksa, intimidasi, atau ancaman kekerasan dari gedung, fasilitas, atau lembaga pemerintah.",
+      "bulan": 60,
+      "denda": 650,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+     {
+      "kode": "3.17",
+      "nama": "POSSESSION OF NON LEGAL CURRENCY (Kepemilikan Mata unag Non-Sah)",
+      "deskripsi": "Seseorang yang dengan sengaja memiliki mata uang non-sah atau tidak dapat dilacak yang diperoleh dari tindakan melawan hukum, seperti perampokan atau pemerasan. Kepemilikan Mata uang non-sah diklasifikasikan sebagai kejahatan dan dapat dihukum dengan hukuman penjara",
+      "bulan": 7,
+      "denda": 200,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },   
+     {
+      "kode": "3.18",
+      "nama": "DISTRIBUTION OF NON LEGAL CURRENCY (Distribusi Mata Uang Non-Sah)",
+      "deskripsi": "Seseorang yang dengan sengaja mendistribusikan atau mentransfer mata uang yang ditandai atau tidak adapat dilacak yang diperoleh dari tindakan melawan hukum.",
+      "bulan": 35,
+      "denda": 350,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },       
+     {
+      "kode": "3.19",
+      "nama": "BURGLARY (Perampokan Rumah)",
+      "deskripsi": "Seseorang secara melawan hukum memasuki tempat tinggal, bangunan, atau gedung dengan maksud untuk melakukan kejahatan di dalamnya.",
+      "bulan": 30,
+      "denda": 400,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },  
+     {
+      "kode": "3.20",
+      "nama": "BURGLARY OF A GOVERNMENT INSTITUTION (Perampokan di Lembaga Pemerintah)",
+      "deskripsi": "Seseorang secara melawan hukum memasuki gedung atau fasilitas pemerintah dengan maksud untuk melakukan kejahatan di dalamnya.",
+      "bulan": 35,
+      "denda": 450,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },  
+     {
+      "kode": "3.21",
+      "nama": "FELONY TRESPASSING (memasuki Tempat Terbatas)",
+      "deskripsi": "Seseorang yang secara melawan hukum memasuki tempat yang dibatasi atau dijaga, termasuk fasilitas pemerintah atau militer. Pelangaran pidana diklasifikasikan sebagai kejahatan dan dapat dihukum dengan hukuman penjara.",
+      "bulan": 15,
+      "denda": 250,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+     {
+      "kode": "3.22",
+      "nama": "MILITARY TRESPASSING (Memasuki Tempat Militer)",
+      "deskripsi": "Seseorang yang secara melawan hukum memasuki pangkalan atau instalasi militer tanpa izin. Pelanggaran Pidana Militer diklasifikasikan sebagai kejahatan dan dapat dihukum dengan hukuman penjara.",
+      "bulan": 30,
+      "denda": 350,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },     
+     {
+      "kode": "3.23",
+      "nama": "ARSON (Pembakaran)",
+      "deskripsi": "Seseorang yang dengan sengaja dan melawan hukum membakar atau menyebabkan terbakarnya suatu bangunan, struktur, kendaraan atau properti. pembakaran diklasifikasikan sebagai kejahatan dan dapat dihukum dengan hukuman penjara.",
+      "bulan": 35,
+      "denda": 400,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },
+     {
+      "kode": "3.24",
+      "nama": "DESTRUCTION OF GOVERNMENT PROPERTY (Perusakan properti pemerintah)",
+      "deskripsi": "Seseorang yang secara melawan hukum menghancurkan, merusak, atau menodai properti milih pemerintah. perusakan properti pemerintah diklasifikasikan sebagai kejahatan berat dan dapat dihukum dengan hukuman penjara.",
+      "bulan": 35,
+      "denda": 500,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },      
+     {
+      "kode": "3.25",
+      "nama": "DISRUPTION OF A PUBLIC UTILITY (Gangguan terhadap Layanan Publik)",
+      "deskripsi": "Seseorang yang secara melawan hukum merusak, mengutak-atik, atau menghalangi layanan utilitas publik, termasuk sistem air, listrik, gas, telekomunikasi, atau transportasi. Gangguan terhadap layanan publik diklasifikasikan sebagai kejahatan berat dan dapat dihukum dengan hukuman penjara.",
+      "bulan": 40,
+      "denda": 500,
+      "kategori": "KEJAHATAN TERHADAP HARTA BENDA"
+    },  
+    {
+      "kode": "4.1",
+      "nama": "LEGAL PRACTICE VIOLATION (Pelanggaran Praktik Hukum)",
+      "deskripsi": "Seseorang yang, sebagai pengacara atau firma hukum, melanggar standar etika hukum profesional. Ini termasuk tidak mengungkapkan konflik kepentingan, terlibat dalam perilaku tidak jujur, tidak memberikan representasi yang kompeten, atau melanggar aturan seperti kerahasiaan klien.",
+      "bulan": 15,
+      "denda": 500,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.2",
+      "nama": "MISUSE OF AN EMERGENCY HOTLINE (Penyalahgunaan Hotline Darurat)",
+      "deskripsi": "Seseorang yang menggunakan hotline darurat untuk tujuan non-darurat (misalnya, meminta petunjuk arah atau melaporkan pelanggaran ringan), sehingga menghalangi akses untuk keadaan darurat yang sebenarnya.",
+      "bulan": 5,
+      "denda": 150,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.3",
+      "nama": "FAILURE TO PAY A FINE (Tidak dapat membayar Denda)",
+      "deskripsi": "Seseorang yang dengan sengaja tidak membayar denda atau sanksi keuangan lainnya yang dijatuhkan oleh pengadilan.",
+      "bulan": 5,
+      "denda": 100,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.4",
+      "nama": "FAILURE TO IDENTIFY TO A PEACE OFFICER (Kegagalan Mengidentifikasi Petugas Keamanan)",
+      "deskripsi": "Seseorang yang menolak memberikan nama, alamat, atau informasi identitas lainnya ketika diminta secara sah oleh pejabat pemerintah dalam menjalankan tugasnya.",
+      "bulan": 5,
+      "denda": 100,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.5",
+      "nama": "IMPERSONATION (Peniruan Identitas)",
+      "deskripsi": "Seseorang yang, dengan tindakan penipuan, berpura-pura menjadi orang lain (secara langsung atau daring) untuk menipu atau menyesatkan. Ini mencakup penyembunyian atau pembuatan identitas palsu untuk akses atau barang, penggunaan identitas orang lain secara daring, atau penyamaran pejabat publik.",
+      "bulan": 10,
+      "denda": 150,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.6",
+      "nama": "OBSTRUCTION OF PUBLIC DUTY (Penghalangan Tugas Publik)",
+      "deskripsi": "Seseorang yang menghalangi, menghalangi, atau mengganggu pejabat publik atau petugas penegak hukum dalam menjalankan tugasnya. Ini termasuk upaya menghindari penangkapan, mengganggu penyelidikan, atau penyamaran pejabat untuk menghalangi pekerjaan.",
+      "bulan": 12,
+      "denda": 200,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.7",
+      "nama": "EVIDENCE TAMPERING (Perusakan Barang Bukti)",
+      "deskripsi": "Seseorang yang mengubah, memusnahkan, atau mengganggu barang bukti fisik atau elektronik dengan maksud untuk memengaruhi hasil proses hukum. Ini termasuk mengubah dokumen/objek, menghilangkan barang bukti fisik, atau mengubah/menghapus barang bukti digital.",
+      "bulan": 10,
+      "denda": 150,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.8",
+      "nama": "CRIMINAL BUSINESS OPERATIONS (Operasi Bisnis Kriminal)",
+      "deskripsi": "Seseorang yang dengan sengaja terlibat dalam kegiatan yang melibatkan cara-cara ilegal untuk menghasilkan keuntungan, termasuk pencucian uang, penipuan, penyupaan, pemerasan, pemalsuan, atau tindakan ilegal lainnya.",
+      "bulan": 20,
+      "denda": 550,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.9",
+      "nama": "CORPORATE HIJACKING (Pembajakan Korporasi)",
+      "deskripsi": "Seseorang yang secara melawan hukum mengambil alih kendali suatu korporasi dengan cara curang memperoleh aset, sumber daya, atau informasi keuangannya. Hal ini dapat melibatkan penggunaan dokumen palsu, penyupaan, atau kegiatan melawan hukum lainnya untuk mendapatkan akses ke sumber daya korporasi demi keuntungan pribadi.",
+      "bulan": 40,
+      "denda": 550,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.10",
+      "nama": "MEDICAL PRACTICE VIOLATION (Pelanggaran Praktik Medis)",
+      "deskripsi": "Seseorang yang, sebagai penyedia layanan kesehatan, gagal memenuhi standar perawatan medis yang berlaku. Contohnya termasuk meresepkan obat tanpa izin, gagal memperoleh persetujuan berdasarkan informasi, atau memberikan perawatan lanjutan yang tidak memadai.",
+      "bulan": 50,
+      "denda": 550,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.11",
+      "nama": "GAMBLING LICENSE VIOLATION (Pelanggaran Izin Perjudian)",
+      "deskripsi": "Seseorang yang melanggar hukum atau peraturan yang mengatur kegiatan perjudian, termasuk menjalankan bisnis perjudian ilegal, tidak membayar pajak atas kemenangan, atau terlibat dalam perilaku terlarang lainnya.",
+      "bulan": 50,
+      "denda": 650,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.12",
+      "nama": "BRIBERY (Penyuapan)",
+      "deskripsi": "Seseorang yang menawarkan, memberikan, meminta, atau menerima sesuatu yang berharga untuk perilaku khusus, atau menerima/meminta pembayaran untuk pemberian perilaku khusus.",
+      "bulan": 50,
+      "denda": 650,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.13",
+      "nama": "MAKING A FALSE REPORT OF AN EMERGENCY (Membuat Laporan Palsu tentang Keadaan Darurat)",
+      "deskripsi": "Seseorang yang dengan sengaja membuat laporan palsu tentang keadaan darurat (misalnya, kebakaran, ancaman bom) kepada petugas keselamatan publik.",
+      "bulan": 25,
+      "denda": 300,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.14",
+      "nama": "FRAUD (Penipuan)",
+      "deskripsi": "Seseorang yang, dengan tindakan yang disengaja, menipu atau menyesatkan orang lain untuk mendapatkan sesuatu yang berharga atau menyebabkan kerugian finansial/lainnya. Ini termasuk membuat pernyataan palsu, memanipulasi dokumen secara curang, atau menyembunyikan informasi material dengan maksud untuk menipu.",
+      "bulan": 50,
+      "denda": 650,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.15",
+      "nama": "IDENTITY THEFT (Pencurian Identitas)",
+      "deskripsi": "Seseorang yang mencuri informasi pribadi orang lain (misalnya, tanggal lahir, nomor jaminan sosial, data keuangan) dengan maksud untuk menggunakannya untuk tujuan penipuan atau kriminal. Ini termasuk pencurian dokumen fisik atau elektronik, menggunakan data curian untuk akun/pembelian, atau berpura-pura menjadi orang lain untuk mendapatkan akses/barang.",
+      "bulan": 30,
+      "denda": 350,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.16",
+      "nama": "VEHICLE REGISTRATION FRAUD (Penipuan Registrasi Kendaraan)",
+      "deskripsi": "Seseorang yang, dengan maksud curang, memperoleh atau mengubah sertifikat registrasi kendaraan, atau menggunakan sertifikat palsu untuk menipu atau menyesatkan. Ini dapat mencakup penggunaan sertifikat curian atau palsu untuk mendaftarkan kendaraan, mengubah detail untuk menipu, atau menggunakan sertifikat palsu untuk menghindari biaya atau kewajiban.",
+      "bulan": 40,
+      "denda": 400,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.17",
+      "nama": "IMPERSONATING A GOVERNMENT EMPLOYEE (Meniru Pegawai Pemerintah)",
+      "deskripsi": "Seseorang yang berpura-pura menjadi pegawai pemerintah atau petugas keamanan (baik secara langsung maupun daring) untuk menipu atau menyesatkan. Hal ini termasuk mengenakan pakaian/simbol resmi, menggunakan gelar/nama resmi, atau memalsukan dokumen/situs web resmi.",
+      "bulan": 45,
+      "denda": 450,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.18",
+      "nama": "MONEY LAUNDERING (Pencucian Uang)",
+      "deskripsi": "Seseorang yang menyamarkan hasil kegiatan ilegal sebagai dana yang sah. Hal ini termasuk Structuring (transaksi kecil untuk menghindari deteksi), Smurfing (mentransfer dana dengan beberapa entitas), Layering (transaksi kompleks untuk mengaburkan asal usul), dan Integration (menggunakan uang ilegal untuk memperoleh aset).",
+      "bulan": 55,
+      "denda": 750,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "4.19",
+      "nama": "RACKETEERING (Pemerasan)",
+      "deskripsi": "Seseorang yang berpartisipasi dalam atau terlibat dalam kejahatan terorganisir atau kegiatan bisnis ilegal, seringkali sebagai bagian dari perusahaan kriminal atau geng. Ini termasuk, tetapi tidak terbatas pada, pemerasan, penipuan, pencucian uang, perjudian ilegal, dan perdagangan narkoba.",
+      "bulan": 45,
+      "denda": 650,
+      "kategori": "KEJAHATAN TERHADAP ADMINISTRASI PUBLIK"
+    },
+    {
+      "kode": "6.1",
+      "nama": "FAILURE TO REPORT A STOLEN FIREARM (Kegagalan Melaporkan Senjata Api yang Dicuri)",
+      "deskripsi": "Seseorang yang lalai melaporkan pencurian atau kehilangan senjata api kepada pihak berwenang yang berwenang dalam jangka waktu yang ditentukan oleh hukum.",
+      "bulan": 5,
+      "denda": 100,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.2",
+      "nama": "BRANDISHING OF NON-FIREARM WEAPONS (Mengacungkan Senjata Non-Senjata Api)",
+      "deskripsi": "Seseorang yang dengan sengaja memamerkan atau memamerkan senjata non-senjata api dengan cara yang mengancam, mengganggu, atau mengintimidasi.",
+      "bulan": 5,
+      "denda": 100,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.3",
+      "nama": "BRANDISHING OF A FIREARM (Mengacungkan Senjata Api)",
+      "deskripsi": "Seseorang yang dengan sengaja memamerkan atau memamerkan senjata api dengan cara yang mengancam atau mengintimidasi.",
+      "bulan": 10,
+      "denda": 150,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.5",
+      "nama": "UNLAWFUL POSSESSION OF AMMUNITION OR ANY NON-LEGAL ITEMS (Kepemilikan Amunisi atau Barang yang Tidak Sah Secara Melanggar Hukum)",
+      "deskripsi": "Seseorang dilarang memiliki amunisi (selongsong peluru atau proyektil) tanpa izin senjata api dan barang yang tidak sah.",
+      "bulan": 10,
+      "denda": 200,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.6",
+      "nama": "CRIMINAL POSSESSION OF A FIREARM CLASS 1 (Kepemilikan Senjata Api Kelas 1)",
+      "deskripsi": "Seseorang yang memiliki atau menguasai senjata api tanpa izin kelas 1.",
+      "bulan": 15,
+      "denda": 250,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.7",
+      "nama": "CRIMINAL POSSESSION OF A FIREARM CLASS 2 (Kepemilikan Senjata Api Kelas 2)",
+      "deskripsi": "Seseorang yang memiliki atau menguasai senjata api tanpa izin kelas 2.",
+      "bulan": 15,
+      "denda": 350,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.8",
+      "nama": "CRIMINAL POSSESSION OF A FIREARM CLASS 3 (Kepemilikan Senjata Api Kelas 3)",
+      "deskripsi": "Seseorang yang memiliki atau menguasai senjata api kelas 3 tanpa izin.",
+      "bulan": 20,
+      "denda": 450,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.9",
+      "nama": "CRIMINAL USE OF A FIREARM CLASS 1 (Menggunakan Senjata Api Kelas 1)",
+      "deskripsi": "Seseorang yang secara melawan hukum menggunakan atau memiliki senjata api kelas 1 untuk melakukan kejahatan.",
+      "bulan": 20,
+      "denda": 300,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.10",
+      "nama": "CRIMINAL USE OF A FIREARM CLASS 2 (Menggunakan Senjata Api Kelas 2)",
+      "deskripsi": "Seseorang yang secara melawan hukum menggunakan atau memiliki senjata api kelas 1 untuk melakukan kejahatan.",
+      "bulan": 30,
+      "denda": 450,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.11",
+      "nama": "CRIMINAL USE OF A FIREARM CLASS 3 (Menggunakan Senjata Api Kelas 3)",
+      "deskripsi": "Seseorang yang memiliki atau menguasai senjata api kelas 3 tanpa izin.",
+      "bulan": 50,
+      "denda": 950,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.12",
+      "nama": "WEAPON DISCHARGE VIOLATION",
+      "deskripsi": "Seseorang yang secara ilegal melepaskan tembakan dari senjata api atau senjata lainnya.",
+      "bulan": 18,
+      "denda": 280,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.13",
+      "nama": "DRIVE-BY SHOOTING USING FIREARMS CLASS 1 (Melakukan Penembakan Saat/Dalam Kendaraan Kelas 1)",
+      "deskripsi": "Seseorang yang melepaskan tembakan senjata api kelas 1 dari kendaraan yang bergerak ke arah orang, gedung, kendaraan, atau target lainnya.",
+      "bulan": 30,
+      "denda": 350,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.14",
+      "nama": "DRIVE-BY SHOOTING USING FIREARMS CLASS 2 (Melakukan Penembakan Saat/Dalam Kendaraan Kelas 2)",
+      "deskripsi": "Seseorang yang melepaskan tembakan senjata api kelas 2 dari kendaraan yang bergerak ke arah orang, gedung, kendaraan, atau target lainnya.",
+      "bulan": 45,
+      "denda": 500,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.15",
+      "nama": "SHOOTING AT AN INHABITED DWELLING OR OCCUPIED VEHICLE (Menembak di Tempat Tinggal atau Kendaraan yang Dihuni)",
+      "deskripsi": "Seseorang yang dengan sengaja menembakkan senjata api ke tempat tinggal, apartemen, gedung, atau kendaraan yang dihuni.",
+      "bulan": 25,
+      "denda": 250,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.16",
+      "nama": "CRIMINAL POSSESSION OF A GOVERNMENT-ISSUED TASER (Kepemilikan Taser yang Dikeluarkan Pemerintah)",
+      "deskripsi": "Seseorang yang secara tidak sah memiliki Taser yang dikeluarkan pemerintah.",
+      "bulan": 25,
+      "denda": 300,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.17",
+      "nama": "CRIMINAL POSSESSION OF A HOSPITAL-ISSUED TASER (Kepemilikan Taser yang Dikeluarkan Rumah Sakit)",
+      "deskripsi": "Seseorang yang memiliki atau mengendalikan Senjata Api yang Dikeluarkan Rumah Sakit atau yang Dilegalkan Kelas 1 tanpa memiliki lisensi atau izin yang diperlukan.",
+      "bulan": 25,
+      "denda": 300,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.18",
+      "nama": "CRIMINAL USE OF EXPLOSIVES (Penggunaan Bahan Peledak)",
+      "deskripsi": "Seseorang yang secara melawan hukum menggunakan atau memiliki bahan peledak dengan maksud untuk menyebabkan kerusakan atau kerugian.",
+      "bulan": 15,
+      "denda": 200,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.19",
+      "nama": "POSSESSION OF DESTRUCTIVE DEVICES (Kepemilikan Alat Pemusnah)",
+      "deskripsi": "Seseorang yang secara melawan hukum memiliki atau menguasai bahan peledak, bahan pembakar, atau alat lain yang dirancang atau dimaksudkan untuk menyebabkan kehancuran atau kerusakan secara melawan hukum.",
+      "bulan": 20,
+      "denda": 300,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.20",
+      "nama": "ATTEMPTED PRISON BREAK (Percobaan Melarikan Diri Dari Penjara)",
+      "deskripsi": "Seseorang yang mencoba melarikan diri dari penjara atau tahanan. Ini termasuk membuat terowongan, memotong pagar, atau menggunakan kendaraan untuk menembus penghalang.",
+      "bulan": 30,
+      "denda": 350,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "6.21",
+      "nama": "PRISON BREAK (Melarikan Diri Dari Penjara)",
+      "deskripsi": "Seseorang yang berhasil melarikan diri dari penjara atau tahanan.",
+      "bulan": 40,
+      "denda": 450,
+      "kategori": "PENIPUAN DAN PELANGGARAN KEUANGAN (FOKUS SENJATA/BAHAN PELEDAK)"
+    },
+    {
+      "kode": "7.1",
+      "nama": "MISDEMEANOR POSSESSION OF NARCOTICS (Kepemilikan Narkotika Ringan)",
+      "deskripsi": "Seseorang yang kedapatan memiliki atau membeli barang narkotika sebanyak atau melebihi 1-5 buah.",
+      "bulan": 7,
+      "denda": 200,
+      "kategori": "KEJAHATAN TERHADAP BARANG HARAM"
+    },
+    {
+      "kode": "7.2",
+      "nama": "FELONY POSSESSION OF NARCOTICS (Kepemilikan Narkotika Berat)",
+      "deskripsi": "Seseorang yang kedapatan memiliki atau membeli barang narkotika lebih dari 5 buah.",
+      "bulan": 15,
+      "denda": 400,
+      "kategori": "KEJAHATAN TERHADAP BARANG HARAM"
+    },
+    {
+      "kode": "8.1",
+      "nama": "LOITERING (Gelandangan)",
+      "deskripsi": "Seseorang yang berada di tempat umum dalam jangka waktu yang lama tanpa tujuan yang jelas. Hal ini sering dikaitkan dengan perilaku menggelandang atau kegiatan kriminal lainnya.",
+      "bulan": 5,
+      "denda": 100,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "8.2",
+      "nama": "UNLAWFUL ASSEMBLY (Berkumpul Secara Melawan Hukum)",
+      "deskripsi": "Tindakan kriminal yang melibatkan dua orang atau lebih yang berkumpul dengan maksud untuk melakukan kejahatan, mengganggu ketertiban umum, atau mengancam untuk menggunakan kekerasan terhadap orang lain.",
+      "bulan": 7,
+      "denda": 150,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "8.3",
+      "nama": "OBSTRUCTION OF A GOVERNMENT EMPLOYEE (Mengambat Pegawai Pemerintah)",
+      "deskripsi": "Seseorang yang mencegah atau menghalangi pegawai pemerintah atau petugas keamanan dalam melaksanakan tugas resminya. Ini dapat mencakup gangguan fisik, ancaman verbal, atau bentuk intimidasi lainnya.",
+      "bulan": 10,
+      "denda": 200,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "8.4",
+      "nama": "DISOBEYING A PEACE OFFICER (Tidak Mematuhi Petugas Polisi)",
+      "deskripsi": "Seseorang yang dengan sengaja tidak mematuhi atau menolak untuk mematuhi perintah sah yang diberikan oleh petugas keamanan. Tidak mematuhi Petugas Keamanan diklasifikasikan sebagai Pelanggaran Ringan dan dapat dihukum dengan hukuman penjara.",
+      "bulan": 5,
+      "denda": 100,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "8.5",
+      "nama": "EVADING A PEACE OFFICER (Menghindari Petugas Polisi)",
+      "deskripsi": "Seseorang yang mencoba melarikan diri atau menghindari penangkapan oleh petugas polisi. Ini dapat mencakup melarikan diri dengan berjalan kaki, menggunakan kendaraan, atau dengan cara lain.",
+      "bulan": 10,
+      "denda": 150,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "8.6",
+      "nama": "RESISTING ARREST (Melawan Penangkapan)",
+      "deskripsi": "Seseorang yang dengan sengaja mencegah atau mencoba menghalangi petugas penegak hukum untuk melakukan penangkapan, penahanan, atau penghentian.",
+      "bulan": 15,
+      "denda": 150,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "8.7",
+      "nama": "FAILURE TO APPEAR (Tidak Hadir di Pengadilan)",
+      "deskripsi": "Seseorang yang tidak hadir di pengadilan ketika dipanggil atau diwajibkan secara hukum untuk hadir. Ketidakhadiran di tempat kejadian.",
+      "bulan": 20,
+      "denda": 200,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "8.8",
+      "nama": "ESCAPING CUSTODY (Melarikan Diri dari Penangkapan)",
+      "deskripsi": "Seseorang yang secara sah berada dalam tahanan petugas penegak hukum yang melarikan diri atau mencoba melarikan diri dari tahanan tersebut.",
+      "bulan": 20,
+      "denda": 150,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "8.9",
+      "nama": "DISTURBING THE PEACE (Mengganggu Ketenangan)",
+      "deskripsi": "Seseorang yang dengan sengaja dan jahat mengganggu kedamaian atau ketenangan lingkungan, keluarga, atau individu mana pun dengan suara yang tidak wajar. Ini termasuk memainkan musik keras, berteriak, berkelahi, atau menggunakan bahasa yang menyinggung di depan umum.",
+      "bulan": 7,
+      "denda": 100,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "8.10",
+      "nama": "INCITEMENT TO RIOT (Hasutan untuk Kerusuhan)",
+      "deskripsi": "Seseorang yang mendorong orang lain untuk terlibat dalam kerusuhan publik yang disertai kekerasan.",
+      "bulan": 10,
+      "denda": 100,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "8.11",
+      "nama": "VIOLATING A COURT ORDER (Melanggar Perintah Pengadilan)",
+      "deskripsi": "Seseorang yang dengan sengaja tidak mematuhi perintah pengadilan. Ini dapat mencakup tidak hadir, tidak membayar denda atau restitusi, atau tidak mematuhi arahan lainnya.",
+      "bulan": 20,
+      "denda": 200,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "8.12",
+      "nama": "NEGLECT OF PUBLIC DUTY (Kelalaian Tugas Publik)",
+      "deskripsi": "Seorang pejabat publik (pegawai negeri sipil dan/atau petugas keamanan) yang dengan sengaja atau lalai tidak melaksanakan tugas yang dibebankan kepadanya oleh hukum.",
+      "bulan": 10,
+      "denda": 150,
+      "kategori": "KETERTIBAN UMUM"
+    }
+  ],
+  "pasalLalin": [
+    {
+      "kode": "5.1",
+      "nama": "YIELD VIOLATION (Pelanggaran Memberi Jalan)",
+      "deskripsi": "Seseorang yang tidak memberi jalan kepada kendaraan lain atau pejalan kaki sebagaimana diwajibkan oleh hukum.",
+      "bulan": 0,
+      "denda": 50,
+      "kategori": "PELANGGARAN LALU LINTAS"
+    },
+    {
+      "kode": "5.2",
+      "nama": "DRIVING ON THE WRONG SIDE OF THE ROAD (Mengemudi di Sisi Jalan yang Salah)",
+      "deskripsi": "Seseorang yang mengoperasikan kendaraan di sisi jalan yang salah, baik sengaja maupun tidak sengaja.",
+      "bulan": 0,
+      "denda": 50,
+      "kategori": "PELANGGARAN LALU LINTAS"
+    },
+    {
+      "kode": "5.3",
+      "nama": "RIDING ON A SIDEWALK (Mengemudi di Trotoar)",
+      "deskripsi": "Seseorang yang mengemudikan atau mengoperasikan kendaraan apa pun di trotoar dengan cara yang dapat membahayakan pejalan kaki.",
+      "bulan": 0,
+      "denda": 75,
+      "kategori": "PELANGGARAN LALU LINTAS"
+    },
+    {
+      "kode": "5.4",
+      "nama": "NEGLIGENT OPERATION OF A VEHICLE (Pengoperasian Kendaraan yang Lalai)",
+      "deskripsi": "Seseorang yang mengoperasikan kendaraan secara lalai atau ceroboh, sehingga menimbulkan risiko bahaya bagi orang lain. Ini dapat mencakup ngebut, mengemudi secara ugal-ugalan, tidak mengalah, dan mengemudi sambil teralihkan perhatiannya.",
+      "bulan": 0,
+      "denda": 100,
+      "kategori": "PELANGGARAN LALU LINTAS"
+    },
+    {
+      "kode": "5.5",
+      "nama": "UNAUTHORIZED PARKING (Parkir Tanpa Izin)",
+      "deskripsi": "Seseorang yang melanggar peraturan parkir dengan parkir di area terlarang. Ini termasuk parkir di zona terbatas atau dengan cara yang menghalangi lalu lintas atau akses.",
+      "bulan": 0,
+      "denda": 50,
+      "kategori": "PELANGGARAN LALU LINTAS"
+    },
+    {
+      "kode": "5.6",
+      "nama": "FAILURE TO OBEY TRAFFIC CONTROL DEVICES (Kegagalan Mematuhi Alat Pengatur Lalu Lintas)",
+      "deskripsi": "Seseorang yang mengoperasikan kendaraan dan gagal mematuhi alat pengatur lalu lintas seperti rambu berhenti, rambu lalu lintas, dan rambunya keluar.",
+      "bulan": 0,
+      "denda": 75,
+      "kategori": "PELANGGARAN LALU LINTAS"
+    },
+    {
+      "kode": "5.7",
+      "nama": "FAILURE TO YIELD TO EMERGENCY VEHICLE (Kegagalan Mengalah pada Kendaraan Darurat)",
+      "deskripsi": "Seseorang yang mengoperasikan kendaraan dan gagal mengalah pada kendaraan darurat sebagaimana diwajibkan oleh hukum.",
+      "bulan": 0,
+      "denda": 75,
+      "kategori": "PELANGGARAN LALU LINTAS"
+    },
+    {
+      "kode": "5.8",
+      "nama": "UNSAFE USAGE OF A BICYCLE (Penggunaan Sepeda yang Tidak Aman)",
+      "deskripsi": "Seseorang yang mengoperasikan sepeda dengan cara yang membahayakan keselamatan dirinya sendiri atau keselamatan orang lain. Ini termasuk berkendara di bawah pengaruh alkohol, berkendara secara sembrono/lalai, atau tidak mematuhi peraturan lalu lintas.",
+      "bulan": 0,
+      "denda": 50,
+      "kategori": "PELANGGARAN LALU LINTAS"
+    },
+    {
+      "kode": "5.9",
+      "nama": "IMPROPER TURN (Belok Tidak Wajar)",
+      "deskripsi": "Seseorang yang tidak berbelok sebagaimana diwajibkan oleh hukum (misalnya, berbelok dari jalur yang salah, tidak memberi sinyal, atau memotong jalan).",
+      "bulan": 0,
+      "denda": 50,
+      "kategori": "PELANGGARAN LALU LINTAS"
+    },
+    {
+      "kode": "5.10",
+      "nama": "UNSAFE LANE CHANGE (Berpindah Jalur Tidak Aman)",
+      "deskripsi": "Seseorang yang berpindah jalur tanpa memberi sinyal dengan benar atau tanpa memastikan bahwa manuver dapat dilakukan dengan aman, membahayakan pengemudi atau penumpang lain.",
+      "bulan": 0,
+      "denda": 75,
+      "kategori": "PELANGGARAN LALU LINTAS"
+    },
+    {
+      "kode": "5.11",
+      "nama": "DRIVE WITHOUT A LICENSE (Mengemudi Tanpa SIM)",
+      "deskripsi": "Seseorang yang mengoperasikan kendaraan bermotor di jalan umum tanpa SIM yang sah dan dikeluarkan secara sah.",
+      "bulan": 0,
+      "denda": 75,
+      "kategori": "PELANGGARAN LALU LINTAS"
+    },
+    {
+      "kode": "5.12",
+      "nama": "RECKLESS DRIVING (Mengemudi Ugal-Ugalan)",
+      "deskripsi": "Seseorang yang mengoperasikan kendaraan bermotor dengan cara yang menunjukkan ketidakpedulian terhadap keselamatan orang lain. Ini termasuk kecepatan yang berlebihan, mengebut, berbelok-belok, tidak berhenti di rambu/lampu lalu lintas, dan mengabaikan peraturan lalu lintas.",
+      "bulan": 0,
+      "denda": 100,
+      "kategori": "PELANGGARAN LALU LINTAS"
+    },
+    {
+      "kode": "5.13",
+      "nama": "HIT AND RUN (Tabrak Lari)",
+      "deskripsi": "Kecelakaan lalu lintas di mana pengemudi yang terlibat meninggalkan tempat kejadian tanpa memberikan informasi pribadi dan asuransi kepada pengemudi lain atau penegak hukum. Jika terjadi cedera atau kematian, pengemudi yang melarikan diri dapat menghadapi tuntutan yang lebih serius.",
+      "bulan": 10,
+      "denda": 100,
+      "kategori": "PELANGGARAN LALU LINTAS"
+    },
+    {
+      "kode": "5.14",
+      "nama": "STREET RACING (Balap Jalanan)",
+      "deskripsi": "Seseorang yang terlibat dalam kontes kecepatan dengan satu atau lebih pengemudi di jalan umum yang aktif.",
+      "bulan": 20,
+      "denda": 200,
+      "kategori": "PELANGGARAN LALU LINTAS"
+    },
+    {
+      "kode": "5.15",
+      "nama": "RECKLESS EVADING OF A PEACE OFFICER (Penghindaran Petugas Polisi yang Ceroboh)",
+      "deskripsi": "Seseorang yang dengan sengaja atau gegabah mencoba menghindari petugas penegak hukum dengan kendaraan. Jika orang tersebut tahu bahwa mereka sedang dikejar dan mengemudi dengan cara yang membahayakan orang lain atau petugas, mereka dapat dituntut.",
+      "bulan": 0,
+      "denda": 75,
+      "kategori": "PELANGGARAN LALU LINTAS"
+    },
+    {
+      "kode": "5.16",
+      "nama": "USE OF NITROUS OXIDE (Penggunaan Nitrous Oxide)",
+      "deskripsi": "Seseorang yang menghirup nitrous oxide tanpa resep atau izin resmi yang sah. Menggunakannya untuk meningkatkan performa kendaraan, alih-alih untuk kontes, adalah ilegal.",
+      "bulan": 0,
+      "denda": 50,
+      "kategori": "PELANGGARAN LALU LINTAS"
+    }
+  ],
+  "pasalKendaraan": [
+    {
+      "kode": "9.1",
+      "nama": "UNAUTHORIZED PARKING (Parkir Ilegal)",
+      "deskripsi": "Seseorang yang meninggalkan kendaraan atau memarkirkan di tempat yang tidak seharusnya seperti: Trotoar dan di tengah jalan",
+      "hari": 0,
+      "bulan": 0,
+      "denda": 50,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "9.2",
+      "nama": "RECKLESS DRIVING(Ugal-ugalan)",
+      "deskripsi": "Seseorang yang mengendarai kendaraan secara ugal-ugalan sehingga membahayakan pengguna jalan lain",
+      "hari": 0,
+      "bulan": 0,
+      "denda": 75,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "9.3",
+      "nama": "FELONY TRESPASSING (Zona Terbatas)",
+      "deskripsi": "Seseorang yang memasuki wilayah tidak memiliki izin dengan cara sengaja ataupun tidak sengaja, seperti: Military base, Los Santos International Airport, dan ladang narcotics",
+      "hari": 0,
+      "bulan": 0,
+      "denda": 100,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "9.4",
+      "nama": "USE OF NITROUS OXIDE (Menggunakan NOS)",
+      "deskripsi": "Seseorang yang menggunakan NOS dalam kota",
+      "hari": 0,
+      "bulan": 0,
+      "denda": 100,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "9.5",
+      "nama": "ILLEGAL RACING (Balap Liar)",
+      "deskripsi": "Seseorang yang terlibat atau mengikuti balapan yang tidak ada izin dari pemerintah atau event resmi",
+      "hari": 1,
+      "bulan": 0,
+      "denda": 150,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "9.6",
+      "nama": "POSSESSION OF ILLEGAL ITEM (Kepemilikan Barang Ilegal)",
+      "deskripsi": "Kendaraan yang kedapatan membawa barang ilegal seperti alat rampok, narcotics, senjata, peluru, attachment",
+      "hari": 1,
+      "bulan": 0,
+      "denda": 150,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "9.7",
+      "nama": "ASSISTING OF CRIMINAL (Membantu Tindakan Kriminal)",
+      "deskripsi": "Seseorang yang membantu tindakan kriminal secara langsung atau secara tidak langsung yang mengintervensi kegiatan L.E.O seperti: mengganggu pengejaran dan mengganggu convoy pemerintahan",
+      "hari": 1,
+      "bulan": 0,
+      "denda": 150,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "9.8",
+      "nama": "ATM ROBBERY (Perampokan ATM)",
+      "deskripsi": "Seseorang yang melakukan perampokan ATM",
+      "hari": 1,
+      "bulan": 0,
+      "denda": 200,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "9.9",
+      "nama": "LTD ROBBERY (Perampokan Toko/LTD)",
+      "deskripsi": "Seseorang yang melakukan perampokan toko/LTD",
+      "hari": 1,
+      "bulan": 0,
+      "denda": 250,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "9.10",
+      "nama": "FLEECA ROBBERY (Perampokan Fleeca)",
+      "deskripsi": "Seseorang yang melakukan perampokan Fleeca",
+      "hari": 1,
+      "bulan": 0,
+      "denda": 300,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "9.11",
+      "nama": "PRINCIPAL BANK ROBBERY (Perampokan Bank)",
+      "deskripsi": "Seseorang yang melakukan perampokan Principal Bank",
+      "hari": 1,
+      "bulan": 0,
+      "denda": 350,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "9.12",
+      "nama": "GANG WAR (Peperangan Antar Geng)",
+      "deskripsi": "Seseorang yang melakukan tindakan peperangan antar kelompok",
+      "hari": 1,
+      "bulan": 0,
+      "denda": 350,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "9.13",
+      "nama": "HOSTAGE TAKING (Penyanderaan)",
+      "deskripsi": "Seseorang yang melakukan penyanderaan terhadap warga sipil, pemerintahan, ems, mekanik, warung om tante",
+      "hari": 1,
+      "bulan": 0,
+      "denda": 350,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "9.14",
+      "nama": "AGGRAVATED BATTERY TOWARDS PEACE OFFICER (Tindakan yang Membahayakan Polisi)",
+      "deskripsi": "Seseorang yang melakukan perlawanan dengan cara sengaja atau membahayakan polisi yang mengakibatkan cedera fisik, mengancam nyawa, dll",
+      "hari": 1,
+      "bulan": 0,
+      "denda": 400,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "9.15",
+      "nama": "VEHICLE WARRANT (Buronan Kendaraan)",
+      "deskripsi": "Kendaraan yang terdaftar di BOLO (Be On The Look Out) dalam MDT dan dinyatakan buronan",
+      "hari": 2,
+      "bulan": 0,
+      "denda": 500,
+      "kategori": "KENDARAAN"
+    }
+  ]
+}

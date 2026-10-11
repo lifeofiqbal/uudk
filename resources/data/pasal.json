@@ -1,0 +1,1031 @@
+{
+  "kategoriUmumOrder": [
+    "KEJAHATAN ATAU PELANGGARAN TERHADAP INDIVIDU",
+    "UPAYA PENGHILANGAN NYAWA DAN PEMBUNUHAN",
+    "PENCULIKAN",
+    "PENYIKSAAN",
+    "PENCURIAN",
+    "PENJUALAN BARANG",
+    "PENIPUAN",
+    "PELANGGARAN TERHADAP INSTANSI DUNIA KITA",
+    "PELANGGARAN TERHADAP ATURAN UMUM",
+    "PELANGGARAN KEPEMILIKAN BARANG ILEGAL",
+    "KETERTIBAN UMUM"
+  ],
+  "pasalUmum": [
+    {
+      "kode": "1.1",
+      "nama": "Penyerangan Dengan Kontak Fisik Tanpa Senjata",
+      "deskripsi": "Penyerangan yang Diperburuk melibatkan bentuk penyerangan yang lebih serius di mana pelaku bermaksud untuk melukai tubuh secara serius tanpa menggunakan senjata mematikan selama penyerangan tersebut.",
+      "bulan": 5,
+      "denda": 500,
+      "kategori": "KEJAHATAN ATAU PELANGGARAN TERHADAP INDIVIDU"
+    },
+    {
+      "kode": "1.2",
+      "nama": "Penyerangan KDRT",
+      "deskripsi": "Penyerangan dengan kekerasan dalam rumah tangga mengacu pada penyerangan yang terjadi dalam hubungan rumah tangga atau pasangan intim. Undang-undang mengenai kekerasan dalam rumah tangga dapat bervariasi, namun seringkali mencakup ketentuan khusus untuk mengatasi dinamika unik dari kasus-kasus ini",
+      "bulan": 8,
+      "denda": 525,
+      "kategori": "KEJAHATAN ATAU PELANGGARAN TERHADAP INDIVIDU"
+    },
+    {
+      "kode": "1.3",
+      "nama": "Penyerangan Dengan Senjata Tumpul.",
+      "deskripsi": "Penyerangan yang Diperburuk melibatkan bentuk penyerangan yang lebih serius di mana pelaku menggunakan benda tumpul, seperti tongkat baseball, atau benda sejenis, dengan maksud untuk melukai tubuh korban secara serius selama penyerangan tersebut.",
+      "bulan": 10,
+      "denda": 550,
+      "kategori": "KEJAHATAN ATAU PELANGGARAN TERHADAP INDIVIDU"
+    },
+        {
+      "kode": "1.4",
+      "nama": "Penyerangan Dengan Senjata Tajam",
+      "deskripsi": "Penyerangan yang Diperburuk melibatkan bentuk penyerangan yang lebih serius di mana pelaku menggunakan senjata tajam, seperti pisau atau benda sejenis, dengan maksud untuk melukai tubuh korban secara serius selama penyerangan tersebut.",
+      "bulan": 10,
+      "denda": 600,
+      "kategori": "KEJAHATAN ATAU PELANGGARAN TERHADAP INDIVIDU"
+    },
+        {
+      "kode": "1.5",
+      "nama": "Penyerangan Dengan Senjata Api.",
+      "deskripsi": "Penyerangan yang Diperburuk melibatkan bentuk penyerangan yang lebih serius di mana pelaku menggunakan senjata api dengan maksud untuk melukai atau membahayakan tubuh korban secara serius selama penyerangan tersebut.",
+      "bulan": 13,
+      "denda": 1000,
+      "kategori": "KEJAHATAN ATAU PELANGGARAN TERHADAP INDIVIDU"
+    },
+        {
+      "kode": "1.6",
+      "nama": "Penyerangan Terhadap Anggota Instansi Dunia Kita (Pemerintah, Mechanic, Kepolisian, dan Medis)",
+      "deskripsi": "Menyerang Anggota Instansi Dunia Kita dianggap sebagai pelanggaran yang lebih berat karena perlindungan khusus yang diberikan kepada mereka yang berseragam.",
+      "bulan": 15,
+      "denda": 1150,
+      "kategori": "KEJAHATAN ATAU PELANGGARAN TERHADAP INDIVIDU"
+    },
+        {
+      "kode": "1.7",
+      "nama": "Penyerangan Terhadap Petinggi Instansi Dunia Kita (Pemerintah, Mechanic, Kepolisian, dan Medis)",
+      "deskripsi": "Menyerang Petinggi Instansi Dunia Kita dianggap sebagai pelanggaran yang lebih berat karena perlindungan khusus yang diberikan kepada mereka yang berseragam dan berpangkat.",
+      "bulan": 17,
+      "denda": 1350,
+      "kategori": "KEJAHATAN ATAU PELANGGARAN TERHADAP INDIVIDU"
+    },
+
+    {
+      "kode": "2.1",
+      "nama": "Percobaan Pembunuhan Tingkat Pertama",
+      "deskripsi": "Percobaan pembunuhan tingkat pertama biasanya melibatkan tindakan yang tidak disengaja dan tidak direncanakan namun tetap menunjukkan sikap tidak peduli yang bejat dan tidak berperasaan terhadap kehidupan manusia. Biasanya mencakup tindakan yang dilakukan karena nafsu atau dengan maksud untuk melukai tubuh secara serius sehingga harus menjalani operasi di rumah sakit karena menyebabkan korban tidak sadarkan diri.",
+      "bulan": 10,
+      "denda": 1000,
+      "kategori": "UPAYA PENGHILANGAN NYAWA DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "2.2",
+      "nama": "Percobaan Pembunuhan Tingkat Kedua",
+      "deskripsi": "Percobaan Pembunuhan tingkat kedua mengacu pada upaya yang disengaja dan direncanakan untuk membunuh orang lain. Pelanggaran ini melibatkan tindakan yang disengaja dan terencana dengan maksud melukai korban sehingga harus menjalani operasi di rumah sakit karena menyebabkan korban tidak sadarkan diri. percobaan pembunuhan tingkat kedua diawali dengan penyiksaan atau tindak pidana lain seperti pemerkosaan, penembakan, pembakaran, perampokan, penculikan, dan sebagainya.",
+      "bulan": 15,
+      "denda": 1500,
+      "kategori": "UPAYA PENGHILANGAN NYAWA DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "2.3",
+      "nama": "Percobaan Pembunuhan Dengan Kendaraan",
+      "deskripsi": "Ketika seseorang mengoperasikan kendaraan dengan cara tidak bertanggung jawab dan sebagai akibatnya menyebabkan hilangnya kesadaran.",
+      "bulan": 15,
+      "denda": 1700,
+      "kategori": "UPAYA PENGHILANGAN NYAWA DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "2.4",
+      "nama": "Percobaan Pembunuhan Instansi Dunia Kita (Pemerintah, Mechanic, Kepolisian, dan Medis)",
+      "deskripsi": "Percobaan pembunuhan instansi biasanya melibatkan tindakan yang tidak disengaja dan tidak direncanakan namun tetap menunjukkan sikap tidak peduli yang bejat dan tidak berperasaan terhadap kehidupan manusia terhadap instansi di Negara Dunia Kita. Biasanya mencakup tindakan yang dilakukan karena dendam atau dengan maksud untuk melukai tubuh secara serius sehingga harus menjalani operasi di rumah sakit karena korban tidak sadarkan diri atau pingsan.",
+      "bulan": 20,
+      "denda": 1800,
+      "kategori": "UPAYA PENGHILANGAN NYAWA DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "2.5",
+      "nama": "Pembunuhan Tingkat Pertama",
+      "deskripsi": "Pembunuhan tingkat pertama biasanya melibatkan tindakan yang tidak disengaja dan tidak direncanakan namun tetap menunjukkan sikap tidak peduli yang bejat dan tidak berperasaan terhadap kehidupan manusia. Biasanya mencakup tindakan yang dilakukan karena nafsu atau dengan maksud untuk melukai tubuh secara serius yang menyebabkan kematian.",
+      "bulan": 30,
+      "denda": 25000,
+      "kategori": "UPAYA PENGHILANGAN NYAWA DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "2.6",
+      "nama": "Pembunuhan Tingkat Kedua",
+      "deskripsi": "Pembunuhan tingkat kedua mengacu pada upaya yang disengaja dan direncanakan untuk membunuh orang lain. Pelanggaran ini melibatkan tindakan yang disengaja dan terencana dengan maksud tertentu untuk menyebabkan kematian korban yang diawali dengan penyiksaan atau tindak pidana lain seperti pemerkosaan, pembakaran, perampokan, penculikan, dan sebagainya.",
+      "bulan": 40,
+      "denda": 35000,
+      "kategori": "UPAYA PENGHILANGAN NYAWA DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "2.7",
+      "nama": "Pembunuhan Tingkat Ketiga",
+      "deskripsi": "Pembunuhan tingkat ketiga mengacu pada tindakan yang menyebabkan kematian orang lain dengan adanya rencana atau niat khusus untuk melakukan pembunuhan. Pelanggaran ini dapat terjadi akibat tindakan yang disengaja dan membahayakan keselamatan orang lain, maupun dalam rangka melakukan tindak pidana lain seperti perampokan, penculikan, pembakaran, penganiayaan berat, atau tindak pidana lainnya yang mengakibatkan korban meninggal dunia, sebagainya",
+      "bulan": 40,
+      "denda": 50000,
+      "kategori": "UPAYA PENGHILANGAN NYAWA DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "2.8",
+      "nama": "Pembunuhan Anggota Instansi Dunia Kita (Pemerintah, Mechanic, Kepolisian, dan Medis",
+      "deskripsi": "Pembunuhan kepada Anggota Instansi Dunia Kita umumnya mengacu pada pembunuhan yang disengaja terhadap seseorang yang memegang posisi pelayanan publik atau petugas penegak hukum, dan motifnya di balik pembunuhan berkaitan dengan peran atau status korban.",
+      "bulan": 45,
+      "denda": 100000,
+      "kategori": "UPAYA PENGHILANGAN NYAWA DAN PEMBUNUHAN"
+    },
+    {
+      "kode": "2.9",
+      "nama": "Pembunuhan Petinggi Instansi Dunia Kita (Pemerintah, Mechanic, Kepolisian, dan Medis)",
+      "deskripsi": "Pembunuhan kepada Petinggi Instansi Dunia Kita umumnya mengacu pada pembunuhan yang disengaja terhadap seseorang yang memegang posisi pelayanan publik atau petugas penegak hukum, dan motifnya di balik pembunuhan berkaitan dengan peran atau status korban",
+      "bulan": 60,
+      "denda": 100000,
+      "kategori": "UPAYA PENGHILANGAN NYAWA DAN PEMBUNUHAN"
+    },
+
+    {
+      "kode": "3.1",
+      "nama": "Penculikan Warg",
+      "deskripsi": "Tindakan penculikan, pengurungan, atau pengekangan terhadap orang lain yang menyebabkan kerugian terhadap individu/kelompok/instansi.",
+      "bulan": 10,
+      "denda": 800,
+      "kategori": "PENCULIKAN"
+    },
+    {
+      "kode": "3.2",
+      "nama": "Penculikan Terhadap Anggota Instansi Dunia Kita (Pemerintah, Mechanic,  Kepolisian, dan Medis)",
+      "deskripsi": "Tindakan penculikan dan melawan hukum terhadap seseorang yang menjadi anggota pelayanan publik atau aparat penegak hukum. Pelanggaran ini dikategorikan sebagai kejahatan yang serius karena status korban sebagai pegawai negeri atau petugas perdamaian.",
+      "bulan": 15,
+      "denda": 1200,
+      "kategori": "PENCULIKAN"
+    },
+    {
+      "kode": "3.3",
+      "nama": "Penculikan Terhadap Petinggi Instansi Dunia Kita (Pemerintah, Mechanic, Kepolisian, dan Medis)",
+      "deskripsi": "Tindakan penculikan dan melawan hukum terhadap seseorang yang memiliki jabatan pelayanan publik atau aparat penegak hukum. Pelanggaran ini dikategorikan sebagai kejahatan yang lebih serius karena status korban sebagai pegawai negeri atau petugas perdamaian.",
+      "bulan": 10,
+      "denda": 1300,
+      "kategori": "PENCULIKAN"
+    },
+    {
+      "kode": "3.4",
+      "nama": "Penyanderaan Terhadap Warga",
+      "deskripsi": "Tindakan kejahatan dengan menangkap dan menahan individu sebagai sandera untuk berbagai tujuan, seperti mendapatkan uang tebusan, menuntut pembebasan tahanan lain, atau menggunakan kendali atas suatu situasi.",
+      "bulan": 30,
+      "denda": 4000,
+      "kategori": "PENCULIKAN"
+    },
+    {
+      "kode": "3.5",
+      "nama": "Penyanderaan Anggota Instansi Dunia Kita (Pemerintah, Mechanic,  Kepolisian, dan Medis)",
+      "deskripsi": "Tindakan pengekangan atau pengurungan dan melawan hukum terhadap seseorang yang menjadi anggota pelayanan publik atau aparat penegak hukum. Pelanggaran ini dikategorikan sebagai kejahatan yang serius karena status korban sebagai pegawai negeri atau petugas perdamaian.",
+      "bulan": 35,
+      "denda": 10000,
+      "kategori": "PENCULIKAN"
+    },
+    {
+      "kode": "3.6",
+      "nama": "Penyanderaan Petinggi Instansi Dunia Kita (Pemerintah, Mechanic, Kepolisian, dan Medis)",
+      "deskripsi": "Tindakan pengekangan atau pengurungan dan melawan hukum terhadap seseorang yang memiliki jabatan pelayanan publik atau aparat penegak hukum. Pelanggaran ini dikategorikan sebagai kejahatan yang lebih serius karena status korban sebagai pegawai negeri atau petugas perdamaian.",
+      "bulan": 40,
+      "denda": 20000,
+      "kategori": "PENCULIKAN"
+    },
+    {
+      "kode": "4.1",
+      "nama": "Penyiksaan Ringan",
+      "deskripsi": "Melakukan tindakan kejahatan yang mengakibatkan penderitaan fisik atau verbal atau mental yang parah dengan sengaja dan menyebabkan kerugian terhadap suatu individu/kelompok.",
+      "bulan": 5,
+      "denda": 750,
+      "kategori": "PENYIKSAAN"
+    },
+    {
+      "kode": "4.2",
+      "nama": "Penyiksaan Psikologis",
+      "deskripsi": "Penyiksaan psikologis mengacu pada penderitaan atau penderitaan mental yang parah dengan sengaja. Ini mencakup metode yang bertujuan untuk menyebabkan tekanan psikologis yang ekstrem, seperti isolasi berkepanjangan, perampasan sensorik, penghinaan, ancaman, eksekusi pura-pura, atau taktik lain apa pun yang menyebabkan penderitaan mental yang parah.",
+      "bulan": 8,
+      "denda": 900,
+      "kategori": "PENYIKSAAN"
+    },
+    {
+      "kode": "4.3",
+      "nama": "Penyiksaan Fisik",
+      "deskripsi": "Penyiksaan fisik melibatkan tindakan menimbulkan rasa sakit atau penderitaan yang parah melalui cara fisik. Hal ini dapat mencakup tindakan seperti pemukulan parah, sengatan listrik, mati lemas, pembakaran, pelecehan seksual, penyiksaan atau metode lain apa pun yang menyebabkan rasa sakit atau cedera parah pada tubuh seseorang.",
+      "bulan": 10,
+      "denda": 1000,
+      "kategori": "PENYIKSAAN"
+    },
+    {
+      "kode": "4.4",
+      "nama": "Penyiksaan dengan Bahan Kimia atau Narkoba",
+      "deskripsi": "Penggunaan bahan kimia atau obat-obatan untuk menimbulkan rasa sakit, penderitaan, atau tekanan mental pada individu adalah dilarang. Hal ini mencakup pemberian zat berbahaya, obat-obatan, atau hal lain yang menyebabkan kerugian fisik atau psikologis. ",
+      "bulan": 13,
+      "denda": 1200,
+      "kategori": "PENYIKSAAN"
+    },
+    {
+      "kode": "4.5",
+      "nama": "Penyiksaan Berat",
+      "deskripsi": "Mengacu pada tindakan yang disengaja dan melanggar hukum untuk melukai tubuh parah yang mengakibatkan cacat permanen, pemotongan, atau cacat pada bagian tubuh. Konsep ini berasal dari hukum umum, yang awalnya melibatkan cedera yang secara signifikan mengganggu kemampuan seseorang untuk mempertahankan diri dalam pertempuran.",
+      "bulan": 20,
+      "denda": 1600,
+      "kategori": "PENYIKSAAN"
+    },
+
+    {
+      "kode": "5.1",
+      "nama": "Pencurian Ringan",
+      "deskripsi": "Barangsiapa yang dengan sengaja mengambil, merebut, merampas serta mencuri yang seluruhnya atau sebagian kepunyaan orang lain dengan maksud dimiliki secara melawan hukum akan diancam Pencurian properti atau barang milik orang lain.",
+      "bulan": 5,
+      "denda": 700,
+      "kategori": "PENCURIAN"
+    },
+    {
+      "kode": "5.2",
+      "nama": "Pencurian Identitas Warga",
+      "deskripsi": "Mengacu pada tindakan dengan sengaja memiliki atau menyimpan dokumen identitas, seperti SIM, KTP atau bentuk identifikasi lainnya, yang telah dicuri atau diperoleh secara tidak sah. Pelanggaran ini biasanya melibatkan kepemilikan atau kendali identifikasi orang lain tanpa persetujuan atau otorisasi mereka. ",
+      "bulan": 8,
+      "denda": 750,
+      "kategori": "PENCURIAN"
+    },
+    {
+      "kode": "5.3",
+      "nama": "Pencurian Kendaraan Warga",
+      "deskripsi": "Pencurian kendaraan, melibatkan pengambilan atau pencurian kendaraan bermotor secara tidak sah tanpa izin pemiliknya.",
+      "bulan": 10,
+      "denda": 780,
+      "kategori": "PENCURIAN"
+    },
+    {
+      "kode": "5.4",
+      "nama": "Kepemilikan Identitas Instansi Dunia Kita (Pemerintah, Mechanic, Kepolisian, dan Medis)",
+      "deskripsi": "Tindakan dengan sengaja memiliki atau menyimpan dokumen identitas yang dikeluarkan pemerintah yang telah dicuri atau diperoleh secara tidak sah. Pelanggaran ini biasanya melibatkan kepemilikan dokumen identifikasi seperti paspor, tanda pengenal militer, SIM, atau tanda pengenal lain yang dikeluarkan pemerintah milik orang lain tanpa persetujuan atau izin mereka.",
+      "bulan": 15,
+      "denda": 800,
+      "kategori": "PENCURIAN"
+    },
+    {
+      "kode": "5.5",
+      "nama": "Pencurian Helikopter",
+      "deskripsi": "Pembajakan helikopter, Pelanggaran ini biasanya melibatkan penyitaan atau pengambilan kendali secara tidak sah atas sebuah helikopter saat sedang beroperasi, dengan maksud untuk melakukan tindak pidana.",
+      "bulan": 15,
+      "denda": 820,
+      "kategori": "PENCURIAN"
+    },
+    {
+      "kode": "5.6",
+      "nama": "Pencurian Kendaraan Instansi Dunia Kita (Pemerintah, Mechanic, Kepolisian, dan Medis)",
+      "deskripsi": "Pencurian juga dikenal sebagai pencurian besar, melibatkan pengambilan atau pencurian kendaraan apapun spesifik kendaraan dinas, petugas hukum, secara tidak sah tanpa izin pemiliknya.",
+      "bulan": 25,
+      "denda": 900,
+      "kategori": "PENCURIAN"
+    },
+    {
+      "kode": "5.7",
+      "nama": "Penggelapan Dana",
+      "deskripsi": "Penggelapan terjadi ketika seseorang yang dipercaya untuk mengelola atau menangani harta benda atau dana orang lain menyalahgunakan atau mengkonversikan harta tersebut untuk digunakan sendiri tanpa otorisasi. ",
+      "bulan": 20,
+      "denda": 800,
+      "kategori": "PENCURIAN"
+    },
+    {
+      "kode": "5.8",
+      "nama": "Perampokan ATM",
+      "deskripsi": "Perampokan ATM melibatkan tindakan mengambil atau berupaya mengambil uang dari mesin ATM secara melawan hukum, baik dengan merusak, membongkar, memanipulasi, maupun menggunakan cara lain untuk memperoleh uang dari mesin tersebut. ",
+      "bulan": 10,
+      "denda": 2000,
+      "kategori": "PENCURIAN"
+    },
+    {
+      "kode": "5.9",
+      "nama": "Perampokan Kendaraan",
+      "deskripsi": "Perampokan kendaraan melibatkan tindakan mengambil atau berupaya mengambil kendaraan milik orang lain secara melawan hukum, baik dengan ancaman, paksaan, kekerasan, maupun cara lain yang menyebabkan korban kehilangan kendaraannya. ",
+      "bulan": 15,
+      "denda": 2300,
+      "kategori": "PENCURIAN"
+    },
+    {
+      "kode": "5.10",
+      "nama": "Perampokan Rumah",
+      "deskripsi": "Perampokan rumah melibatkan tindakan memasuki atau berupaya memasuki tempat tinggal seseorang secara melawan hukum dengan tujuan mengambil barang atau harta benda milik penghuni, baik dengan ancaman, paksaan, kekerasan, maupun cara lain. ",
+      "bulan": 18,
+      "denda": 2400,
+      "kategori": "PENCURIAN"
+    },
+     {
+      "kode": "5.11",
+      "nama": "Perampokan Warung",
+      "deskripsi": "Perampokan terjadi jika seseorang dengan sengaja mengambil / mencuri / merebut dan membobol toko atau warung secara paksa dengan atau tanpa menggunakan senjata api.",
+      "bulan": 20,
+      "denda": 3000,
+      "kategori": "PENCURIAN"
+    },   
+     {
+      "kode": "5.12",
+      "nama": "Perampokan Bank Kecil (Fleeca)",
+      "deskripsi": "Perampokan Bank Kecil (Fleeca) melibatkan tindakan mengambil atau berupaya mengambil uang, aset, atau barang berharga dari bank skala kecil secara melawan hukum, baik melalui ancaman, intimidasi, paksaan, maupun kekerasan terhadap pegawai, nasabah, atau pihak lain yang berada di lokasi.",
+      "bulan": 25,
+      "denda": 5000,
+      "kategori": "PENCURIAN"
+    },       
+     {
+      "kode": "5.13",
+      "nama": "Perampokan Toko Perhiasan",
+      "deskripsi": "Perampokan terjadi jika seseorang dengan sengaja mengambil / mencuri / merebut dan membobol toko perhiasan secara paksa dengan atau tanpa menggunakan senjata api. ",
+      "bulan": 25,
+      "denda": 5000,
+      "kategori": "PENCURIAN"
+    },  
+     {
+      "kode": "5.14",
+      "nama": "Perampokan Bank Besar",
+      "deskripsi": "Perampokan terjadi jika seseorang dengan sengaja mengambil / mencuri / merebut dan membobol bank besar secara paksa dengan atau tanpa menggunakan senjata api. ",
+      "bulan": 30,
+      "denda": 8000,
+      "kategori": "PENCURIAN"
+    },  
+
+     {
+      "kode": "6.1",
+      "nama": "Penjualan Barang Legal yang Digunakan untuk Melakukan Kejahatan",
+      "deskripsi": "Seseorang yang menjual barang legal yang kemudian digunakan untuk melakukan kejahatan. Pelanggaran ini diklasifikasikan sebagai kejahatan dan dapat dihukPenjualan barang sah, meskipun berpotensi digunakan untuk melakukan kejahatan, pada umumnya sah. Misalnya, menjual pisau, atau peralatan yang dapat digunakan untuk tujuan yang sah pada umumnya tidak ilegal kecuali ada niat atau pengetahuan khusus yang pembeli bermaksud menggunakan barang tersebut untuk tujuan kriminal. um dengan hukuman penjara.",
+      "bulan": 10,
+      "denda": 1000,
+      "kategori": "PENJUALAN BARANG"
+    },
+     {
+      "kode": "6.2",
+      "nama": "Penjualan Senjata Api Terlarang ",
+      "deskripsi": "Penjualan barang terlarang tertentu dalam jumlah lebih dari 10 yang secara khusus dilarang oleh undang-undang. Contohnya termasuk senjata api, bahan peledak, atau barang lain yang diatur oleh undang-undang federal atau negara bagian. Menjual barang terlarang tanpa izin yang sesuai atau perizinan dapat mengakibatkan tuntutan pidana dan hukuman. ",
+      "bulan": 15,
+      "denda": 1500,
+      "kategori": "PENJUALAN BARANG"
+    },     
+     {
+      "kode": "6.3",
+      "nama": "Penjualan Obat - Obatan Narkotika (Barang Mentah)",
+      "deskripsi": "Membawa bahan mentah untuk membuat narkotika diatas 1500 diindikasikan sebagai pengedar bahan Narkotika, tindakan ini dapat dianggap ilegal. Penjualan barang dengan tujuan yang jelas untuk memfasilitasi kegiatan kriminal dapat mengakibatkan tuntutan pidana terhadap penjual.",
+      "bulan": 15,
+      "denda": 1500,
+      "kategori": "PENJUALAN BARANG"
+    },
+     {
+      "kode": "6.4",
+      "nama": "Penjualan Obat - Obatan Narkotika (Barang Jadi)",
+      "deskripsi": "Membawa barang obat-obatan diatas 50 diindikasikan sebagai pengedar obat-obatan skala besar, tindakan ini dianggap ilegal. Penjualan barang dengan tujuan yang jelas untuk memfasilitasi kegiatan kriminal dapat mengakibatkan tuntutan pidana terhadap penjual. ",
+      "bulan": 20,
+      "denda": 2000,
+      "kategori": "PENJUALAN BARANG"
+    },      
+     {
+      "kode": "6.5",
+      "nama": "Penjualan Pelindung Anti Peluru (Vest)",
+      "deskripsi": "Membawa pelindung anti peluru dengan jumlah 10 atau lebih diindikasikan sebagai penjual pelindung anti peluru, tindakan ini dianggap ilegal.karena secara tidak langsung memfasilitasi tindak kriminal di kota. ",
+      "bulan": 20,
+      "denda": 2200,
+      "kategori": "PENJUALAN BARANG"
+    },  
+    {
+      "kode": "6.6",
+      "nama": "Penjualan Amunisi",
+      "deskripsi": "Membawa amunisi dengan jumlah 1000 atau lebih diindikasikan sebagai penjualan amunisi, tindakan ini dianggap ilegal karena secara tidak langsung memfasilitasi tindak kriminal di kota. ",
+      "bulan": 20,
+      "denda": 2200,
+      "kategori": "PENJUALAN BARANG"
+    },
+    {
+      "kode": "6.7",
+      "nama": "Penjualan Bahan Peledak",
+      "deskripsi": "Beberapa barang yang digunakan dalam kegiatan kriminal berat dan terorisme. Misalnya, penjualan bom atau bahan peledak lainnya untuk kegiatan terorisme tersebut memiliki persyaratan atau batasan hukum, dan berpotensi membahayakan atau menyebarkan teror. ",
+      "bulan": 30,
+      "denda": 3000,
+      "kategori": "PENJUALAN BARANG"
+    },
+
+    {
+      "kode": "7.1",
+      "nama": "Meniru Identitas",
+      "deskripsi": "tindakan mengambil atau meniru identitas orang lain, badan, atau posisi resmi dengan maksud untuk menipu atau menipu orang lain. Peniruan identitas dapat terjadi dalam berbagai bentuk, seperti menggunakan nama, identifikasi, kredensial, atau penampilan orang lain untuk secara palsu menyatakan diri sendiri sebagai orang tersebut atau untuk mendapatkan hak istimewa, keuntungan, atau akses yang tidak sah. ",
+      "bulan": 5,
+      "denda": 800,
+      "kategori": "PENIPUAN"
+    },
+    {
+      "kode": "7.2",
+      "nama": "Pemalsuan Dokumen",
+      "deskripsi": "Tindakan membuat, mengubah, atau memiliki dokumen atau instrumen palsu dengan maksud untuk menipu atau menipu orang atau entitas lain. Pemalsuan biasanya melibatkan pembuatan atau perubahan dokumen agar tampak asli atau autentik, sering kali demi keuntungan finansial atau untuk membujuk seseorang agar mengambil tindakan atas representasi palsu dokumen tersebut. ",
+      "bulan": 10,
+      "denda": 900,
+      "kategori": "PENIPUAN"
+    },
+    {
+      "kode": "7.3",
+      "nama": "Peniruan Identitas Instansi Dunia Kita (Pemerintah, Mechanic, Kepolisian, dan Medis)",
+      "deskripsi": "Negara sering kali memiliki undang-undang yang secara khusus mengkriminalisasi tindakan yang menyamar sebagai petugas penegak hukum. Undang-undang ini bertujuan untuk melindungi integritas penegakan hukum dan mencegah individu menyatakan diri mereka sebagai petugas polisi secara tidak benar. ",
+      "bulan": 15,
+      "denda": 1000,
+      "kategori": "PENIPUAN"
+    },
+
+    {
+      "kode": "8.1",
+      "nama": "Penyalahgunaan Sosial Media",
+      "deskripsi": "Setiap warga masyarakat dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan dan/atau membuat dapat diaksesnya informasi elektronik dan/atau Dokumen Elektronik yang memiliki muatan yang melanggar kesusilaan.",
+      "bulan": 8,
+      "denda": 500,
+      "kategori": "PELANGGARAN TERHADAP INSTANSI DUNIA KITA"
+    },
+    {
+      "kode": "8.2",
+      "nama": "Kepemilikan barang selundupan di fasilitas instansi",
+      "deskripsi": "Tindakan kepemilikan barang atau zat terlarang secara tidak sah di dalam fasilitas yang dimiliki atau dikendalikan pemerintah. Fasilitas-fasilitas ini dapat mencakup penjara, gedung pengadilan, kantor pemerintah,atau tempat lain dimana operasi instansi dilakukan. Memiliki barang selundupan di fasilitas tersebut dianggap sebagai pelanggaran serius karena potensi resikonya terhadap keamanan, keselamatan, dan berfungsinya operasi instansi.",
+      "bulan": 10,
+      "denda": 800,
+      "kategori": "PELANGGARAN TERHADAP INSTANSI DUNIA KITA"
+    },
+    {
+      "kode": "8.3",
+      "nama": "Penyalahgunaan sistem darurat",
+      "deskripsi": "Penggunaan sistem atau layanan komunikasi darurat yang tidak tepat atau tidak sah, seperti 911 atau hotline darurat lainnya. Hal ini melibatkan tindakan yang mengganggu atau menyalahgunakan tujuan yang dimaksudkan dari sistem ini, yang berpotensi membahayakan keselamatan publik dan menghambat respons terhadap sistem yang sebenarnya keadaan darurat.",
+      "bulan": 10,
+      "denda": 800,
+      "kategori": "PELANGGARAN TERHADAP INSTANSI DUNIA KITA"
+    },
+    {
+      "kode": "8.4",
+      "nama": "Penghinaan Terhadap Instansi",
+      "deskripsi": "Tindakan dengan sengaja tidak menaati atau menunjukkan rasa tidak hormat terhadap wewenang atau perintah instansi. Penghinaan terhadap instansi dianggap sebagai pelanggaran serius karena melemahkan wewenang dan integritas sistem instansi, yang bergantung pada kepatuhan individu terhadap perintah pengadilan dan penghormatan terhadap otoritas pengadilan. ",
+      "bulan": 10,
+      "denda": 800,
+      "kategori": "PELANGGARAN TERHADAP INSTANSI DUNIA KITA"
+    },
+    {
+      "kode": "8.5",
+      "nama": "Pengancaman Terhadap Instansi",
+      "deskripsi": "Perbuatan mengancam lembaga atau aparat resmi negara dengan maksud menimbulkan rasa takut, tekanan, atau paksaan agar instansi tersebut melakukan atau tidak melakukan suatu tindakan. Pengancaman dapat dilakukan secara lisan, tertulis, atau melalui media elektronik, perusakan, teror atau tindakan merugikan lainnya. Perbuatan ini melanggar hukum karena mengganggu keamanan, ketertiban, dan kewibawaan negara. ",
+      "bulan": 10,
+      "denda": 800,
+      "kategori": "PELANGGARAN TERHADAP INSTANSI DUNIA KITA"
+    },
+    {
+      "kode": "8.6",
+      "nama": "Penyuapan terhadap Instansi",
+      "deskripsi": "Tindakan menawarkan, memberi, menerima, atau meminta sesuatu yang berharga dengan maksud untuk mempengaruhi tindakan atau keputusan instansi. Penyuapan dianggap sebagai bentuk korupsi publik dan dituntut dengan tegas untuk menjaga integritas para instansi. ",
+      "bulan": 10,
+      "denda": 500,
+      "kategori": "PELANGGARAN TERHADAP INSTANSI DUNIA KITA"
+    },
+    {
+      "kode": "8.7",
+      "nama": "Tidak Kooperatif Terhadap Instansi",
+      "deskripsi": "Tindakan meninggalkan atau mencoba meninggalkan tahanan atau kurungan secara melawan hukum tanpa izin. Melarikan diri dianggap sebagai pelanggaran serius karena melemahkan keamanan dan integritas sistem peradilan dan berpotensi menimbulkan risiko bagi masyarakat. ",
+      "bulan": 10,
+      "denda": 500,
+      "kategori": "PELANGGARAN TERHADAP INSTANSI DUNIA KITA"
+    },
+    {
+      "kode": "8.8",
+      "nama": "Penembakan Terhadap Anggota Kepolisian",
+      "deskripsi": "Penembakan terhadap anggota kepolisian melibatkan tindakan menggunakan senjata api untuk menembak atau berupaya menembak seorang anggota kepolisian, baik dengan maksud melukai, membahayakan, maupun mengancam keselamatan anggota tersebut selama kejadian berlangsung. ",
+      "bulan": 20,
+      "denda": 1000,
+      "kategori": "PELANGGARAN TERHADAP INSTANSI DUNIA KITA"
+    },
+    {
+      "kode": "8.9",
+      "nama": "Kepemilikan APD Kepolisian",
+      "deskripsi": "Kepemilikan APD Kepolisian melibatkan tindakan memiliki, menyimpan, atau menguasai perlengkapan alat pelindung diri yang diperuntukkan bagi anggota kepolisian tanpa izin atau kewenangan yang sah. ",
+      "bulan": 20,
+      "denda": 1000,
+      "kategori": "PELANGGARAN TERHADAP INSTANSI DUNIA KITA"
+    },
+
+    {
+      "kode": "9.1",
+      "nama": "Tidak Memiliki Kartu Identitas (KTP)",
+      "deskripsi": "Tindakan menolak atau gagal memberikan informasi identitas ketika diperlukan oleh penegak hukum atau individu berwenang lainnya dalam situasi tertentu. Persyaratan untuk memberikan tanda pengenal mungkin timbul saat bertemu dengan petugas penegak hukum atau dalam keadaan tertentu di mana tanda pengenal diwajibkan secara hukum.  ",
+      "bulan": 5,
+      "denda": 500,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.2",
+      "nama": "Tidak Mematuhi Petugas Penegak Hukum",
+      "deskripsi": "Tindakan yang dengan sengaja tidak mematuhi perintah atau instruksi sah yang diberikan oleh petugas penegak hukum dalam melaksanakan tugas resminya. Ketidakpatuhan terhadap petugas perdamaian dianggap sebagai pelanggaran hukum dan dapat mengakibatkan konsekuensi hukum.",
+      "bulan": 5,
+      "denda": 500,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.3",
+      "nama": "Tidak Memiliki Lisensi Senjata",
+      "deskripsi": "Tidak Memiliki Lisensi Senjata melibatkan tindakan memiliki, membawa, menyimpan, atau menggunakan senjata tanpa memiliki lisensi atau izin resmi yang diwajibkan oleh peraturan yang berlaku dengan contoh seperti pistol kacang, dsb. ",
+      "bulan": 6,
+      "denda": 500,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.4",
+      "nama": "Menghasut Kerusuhan (Provokator)",
+      "deskripsi": "Untuk tindakan mendorong, mempromosikan, atau mendesak orang lain untuk terlibat dalam perilaku kekerasan atau mengganggu yang mengarah pada kerusuhan. Ini melibatkan penghasutan atau desakan sekelompok orang dengan sengaja untuk melakukan tindakan kekerasan atau terlibat dalam tindakan yang mengancam keselamatan dan perdamaian publik. ",
+      "bulan": 7,
+      "denda": 500,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.5",
+      "nama": "Tindakan Penghakiman Terhadap Individu",
+      "deskripsi": "Penghakiman Terhadap Individu merupakan tindakan seseorang atau kelompok yang secara sepihak melakukan penghukuman, penyiksaan, penganiayaan, atau tindakan kekerasan terhadap individu lain tanpa melalui proses hukum dan kewenangan yang sah. Tindakan tersebut dapat dikenakan pasal apabila dilakukan dengan tujuan menghukum, membalas, atau mengambil alih kewenangan aparat penegak hukum terhadap seseorang yang diduga melakukan pelanggaran atau tindak pidana. ",
+      "bulan": 7,
+      "denda": 500,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.6",
+      "nama": "Menguntit",
+      "deskripsi": "Merujuk pada pola perilaku berulang, tidak diinginkan, dan melecehkan yang ditujukan kepada orang lain, menyebabkan korban takut akan keselamatannya atau menderita tekanan emosional. Hal ini melibatkan perhatian yang terus-menerus dan tidak diinginkan yang melampaui apa yang dianggap wajar dan sah.  ",
+      "bulan": 5,
+      "denda": 450,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.7",
+      "nama": "Pelanggaran Memasuki Properti Pribadi",
+      "deskripsi": "Pelanggaran Memasuki Properti Pribadi melibatkan tindakan memasuki, berada, atau tetap berada di area properti milik orang lain tanpa izin atau kewenangan yang sah dari pemilik atau pihak yang berhak atas properti tersebut. ",
+      "bulan": 8,
+      "denda": 500,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.8",
+      "nama": "Kepemilikan Senjata Tajam",
+      "deskripsi": "Senjata tajam apapun seperti pisau, kapak, dan lain sebagainya dilarang oleh hukum. Kepemilikan senjata tajam ini dapat mengakibatkan tuntutan pidana. ",
+      "bulan": 10,
+      "denda": 500,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.9",
+      "nama": "Mengacungkan atau Menodong Senjata",
+      "deskripsi": "Pelanggaran ini mengacu pada tindakan mengeluarkan, mengacungkan, atau menodongkan senjata api maupun senjata berbahaya kepada orang lain dengan maksud mengancam, mengintimidasi, atau menimbulkan rasa takut, tanpa adanya alasan yang sah atau keadaan pembelaan diri, dapat dikenakan pasal Mengacungkan atau Menodong Senjata.. ",
+      "bulan": 10,
+      "denda": 600,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.10",
+      "nama": "Pelecehan",
+      "deskripsi": "Umumnya mengacu pada pola perilaku yang dimaksudkan untuk mengganggu, mengancam, mengintimidasi, atau membuat khawatir orang lain. Pelecehan dapat terjadi dalam berbagai bentuk dan dapat dilakukan melalui berbagai cara, termasuk interaksi tatap muka, komunikasi tertulis, komunikasi elektronik, atau melalui cara kontak lainnya. ",
+      "bulan": 10,
+      "denda": 800,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.11",
+      "nama": "Membantu dan bersekongkol",
+      "deskripsi": "Untuk tindakan dengan sengaja membantu, mendukung, atau mendorong orang lain dalam melakukan kejahatan. Ini melibatkan partisipasi aktif atau kontribusi terhadap tindak pidana, baik sebelum atau selama dilakukannya, dengan maksud untuk memfasilitasi atau mendorong tindak obatan yang melanggar hukum.  ",
+      "bulan": 10,
+      "denda": 3000,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.12",
+      "nama": "Membantu Buronan",
+      "deskripsi": "juga dikenal sebagai membantu dan bersekongkol dengan buronan, mengacu pada tindakan dengan sengaja menyembunyikan atau melindungi seseorang yang dicari oleh penegak hukum karena kejahatan.",
+      "bulan": 10,
+      "denda": 3000,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.13",
+      "nama": "Pengancaman Terhadap Individu",
+      "deskripsi": "Pengancaman Terhadap Individu melibatkan tindakan menyampaikan ancaman kepada seseorang dengan maksud menimbulkan rasa takut, tertekan, atau khawatir terhadap keselamatan diri, orang lain, maupun harta benda, baik melalui perkataan, tulisan, isyarat, maupun tindakan tertentu. ",
+      "bulan": 10,
+      "denda": 750,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.14",
+      "nama": "Perilaku Tidak Senonoh Di Depan Umum",
+      "deskripsi": "Perilaku Tidak Senonoh Di Depan Umum melibatkan tindakan atau perilaku yang bersifat tidak pantas, vulgar, atau bertentangan dengan norma kesopanan yang dilakukan di tempat umum dan dapat menimbulkan keresahan, gangguan, atau ketidaknyamanan bagi orang lain. ",
+      "bulan": 10,
+      "denda": 500,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.15",
+      "nama": "Penembakan terkait geng / kelompok",
+      "deskripsi": "Kepemilikan, penggunaan, dan pengangkutan senjata api diatur oleh undang-undang. Anggota geng yang terlibat dalam penembakan mungkin menghadapi tuntutan tambahan terkait kepemilikan, penggunaan, atau perdagangan senjata api secara ilegal, tergantung pada keadaan spesifik dan hukum yang berlaku. ",
+      "bulan": 13,
+      "denda": 1000,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.16",
+      "nama": "Memperlihatkan Senjata (Dengan senjata)",
+      "deskripsi": "Pelanggaran ini mengacu pada tindakan memperlihatkan senjata secara sengaja atau secara sadar dengan cara yang mengancam walaupun, tidak ada kontak fisik atau cedera. ",
+      "bulan": 10,
+      "denda": 500,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.17",
+      "nama": "Pemberontakan",
+      "deskripsi": "mengacu pada pemberontakan dengan kekerasan atau pemberontakan melawan otoritas. Ini melibatkan upaya terkoordinasi dan terorganisir untuk menggulingkan atau menantang sistem politik yang ada ketertiban melalui kekerasan atau pemberontakan. ",
+      "bulan": 10,
+      "denda": 500,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.18",
+      "nama": "Berada Di Zona Peperangan",
+      "deskripsi": "Pelanggaran mengacu kepada setiap orang yang berada dengan jarak maksimal 2 blok dalam jangkauan titik perang.",
+      "bulan": 8,
+      "denda": 800,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.19",
+      "nama": "Berada Di Zona Ilegal",
+      "deskripsi": "pelanggaran mengacu kepada setiap orang yang berada di zona yang ditetapkan ilegal oleh kepolisian, seperti: Zona menanam narkoba, dll.",
+      "bulan": 10,
+      "denda": 1000,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.20",
+      "nama": "Menggunakan Atribut Instansi",
+      "deskripsi": "Menggunakan Atribut Instansi melibatkan tindakan mengenakan, menggunakan, atau membawa atribut, seragam, tanda pengenal, maupun perlengkapan yang menunjukkan identitas suatu instansi tanpa memiliki izin atau kewenangan yang sah. ",
+      "bulan": 15,
+      "denda": 1000,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.21",
+      "nama": "Perusakan Barang Bukti",
+      "deskripsi": "Tindakan mengubah, menghancurkan, menyembunyikan, atau memalsukan bukti dengan maksud untuk menghalangi, menghalangi, atau memanipulasi proses peradilan atau penyidikan. Hal ini melibatkan campur tangan terhadap integritas dan keakuratan bukti yang mungkin penting dalam proses pidana atau perdata. ",
+      "bulan": 10,
+      "denda": 800,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.22",
+      "nama": "Saksi Merusak Barang Bukti",
+      "deskripsi": "Tindakan secara melawan hukum mempengaruhi, mengintimidasi, atau menghalangi seorang saksi untuk mencegah atau mengubah kesaksiannya atau kerjasamanya dalam suatu proses hukum. Hal ini melibatkan campur tangan dalam proses pencarian kebenaran dan melemahkan integritas sistem peradilan dengan mencoba mengendalikan atau memanipulasi pernyataan atau tindakan saksi. ",
+      "bulan": 10,
+      "denda": 800,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.23",
+      "nama": "Kriminal Penggunaan Bahan Peledak",
+      "deskripsi": "Merujuk pada kepemilikan, pembuatan, pengangkutan, penjualan, atau penggunaan bahan peledak yang melanggar hukum dengan maksud untuk menimbulkan kerugian, merusak properti, atau melakukan kejahatan. Ini mencakup berbagai aktivitas ilegal yang melibatkan bahan peledak, seperti pemboman, serangan teroris, pembakaran, atau tindakan lain apa pun yang melibatkan penggunaan alat atau bahan peledak secara ilegal. ",
+      "bulan": 30,
+      "denda": 3000,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.24",
+      "nama": "Korupsi Instansi (Pemerintah, Kepolisian dan Medis",
+      "deskripsi": "Merujuk pada penyalahgunaan jabatan atau jabatan publik oleh instansi untuk keuntungan pribadi atau untuk keuntungan diri sendiri atau orang lain secara melawan hukum. Hal ini melibatkan penyalahgunaan kekuasaan, pengaruh, atau sumber daya yang dipercayakan kepada individu yang memegang posisi publik, dan hal ini melemahkan integritas dan efektivitas lembaga pemerintah.",
+      "bulan": 999,
+      "denda": 9999,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.25",
+      "nama": "Terorisme",
+      "deskripsi": "Pelanggaran yang mengacu pada tindak kekerasan dan ancaman yang menimbulkan suasana teror atau rasa takut secara luas kepada warga kota yang mengakibatkan kerusakan atau kehancuran terhadap objek vital negara (Kantor pemerintahan, kepolisian, rumah sakit dan fasilitas publik lainnya) dengan menggunakan senjata api, bahan kimia berbahaya atau bahan peledak. ",
+      "bulan": 40,
+      "denda": 30000,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+    {
+      "kode": "9.26",
+      "nama": "Membantu Tindak Terorisme",
+      "deskripsi": "Setiap orang yang membantu / ikut andil dalam segala jenis tindak pidana terorisme baik secara langsung maupun tidak langsung maupun ikut andil dalam tindakan terorisme atau menghalangi penyidikan, penuntutan dan pemeriksaan di sidang dalam perkara tindak terorisme. ",
+      "bulan": 20,
+      "denda": 15000,
+      "kategori": "PELANGGARAN TERHADAP ATURAN UMUM"
+    },
+
+    {
+      "kode": "10.1",
+      "nama": "Kepemilikan Uang Merah (<$25000)",
+      "deskripsi": "Kepemilikan Uang Merah melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai uang yang dikategorikan sebagai uang ilegal atau hasil kegiatan melawan hukum tanpa memiliki izin atau kewenangan yang sah dengan jumlah kurang dari $25,000. ",
+      "bulan": 10,
+      "denda": 2000,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.2",
+      "nama": "Kepemilikan Bahan Narkotika Mentah (<500)",
+      "deskripsi": "Bahan mentah seperti: fly agaric, rye ergot, liberty cap, dan cubensis telah teruji sebagai bahan yang mengandung zat-zat narkotika. Kepemilikan Bahan Narkotika Mentah melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai bahan mentah sebanyak kurang dari 500 buah yang termasuk atau digunakan untuk menghasilkan narkotika tanpa izin atau kewenangan yang sah. ",
+      "bulan": 10,
+      "denda": 800,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.3",
+      "nama": "Kepemilikan Narkotika (< 10)",
+      "deskripsi": "Kepemilikan Narkotika melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai narkotika sebanyak kurang dari 10 buah tanpa memiliki izin atau kewenangan yang sah sesuai dengan peraturan yang berlaku. ",
+      "bulan": 10,
+      "denda": 2000,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.4",
+      "nama": "Kepemilikan Amunisi (<250)",
+      "deskripsi": "Kepemilikan Amunisi melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai amunisi dengan jumlah kurang dari 250 butir tanpa memiliki izin atau kewenangan yang sah sesuai dengan peraturan yang berlaku",
+      "bulan": 10,
+      "denda": 2000,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.5",
+      "nama": "Kepemilikan Senjata Ilegal Class 1",
+      "deskripsi": "Kepemilikan Senjata Ilegal Class 1 melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai senjata yang termasuk dalam kategori Class 1 tanpa memiliki izin, atau kewenangan yang sah sesuai dengan peraturan yang berlaku. ",
+      "bulan": 10,
+      "denda": 2500,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.6",
+      "nama": "Kepemilikan Baju Pelindung Anti Peluru (<3)",
+      "deskripsi": "Kepemilikan Baju Pelindung Anti Peluru melibatkan tindakan memiliki, menyimpan, membawa, atau menggunakan perlengkapan pelindung tubuh yang dirancang untuk menahan atau mengurangi dampak proyektil dengan jumlah kurang dari 3 buah tanpa memiliki izin atau kewenangan yang sah, apabila kepemilikannya diatur atau dibatasi oleh peraturan yang berlaku. ",
+      "bulan": 10,
+      "denda": 2500,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.7",
+      "nama": "Kepemilikan Uang Merah ($25000 - $50000)",
+      "deskripsi": "Kepemilikan Uang Merah melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai uang yang dikategorikan sebagai uang ilegal atau hasil kegiatan melawan hukum tanpa memiliki izin atau kewenangan yang sah dengan jumlah $25,000 - $50000. ",
+      "bulan": 15,
+      "denda": 3000,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.8",
+      "nama": "Kepemilikan Bahan Narkotika Mentah (500 - 1000)",
+      "deskripsi": "Bahan mentah seperti: fly agaric, rye ergot, liberty cap, dan cubensis telah teruji sebagai bahan yang mengandung zat-zat narkotika. Kepemilikan Bahan Narkotika Mentah melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai bahan mentah sebanyak 500 - 1000 buah yang termasuk atau digunakan untuk menghasilkan narkotika tanpa izin atau kewenangan yang sah. ",
+      "bulan": 15,
+      "denda": 3000,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.9",
+      "nama": "Kepemilikan Narkotika Jadi  (10 - 30)",
+      "deskripsi": "Kepemilikan Narkotika Jadi melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai narkotika sebanyak 10 - 30 buah tanpa memiliki izin atau kewenangan yang sah sesuai dengan peraturan yang berlaku. ",
+      "bulan": 15,
+      "denda": 3000,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.10",
+      "nama": "Kepemilikan Amunisi (250 - 500)",
+      "deskripsi": "Kepemilikan Amunisi melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai amunisi dengan jumlah 250 - 500 butir tanpa memiliki kewenangan yang sah sesuai dengan peraturan yang berlaku. ",
+      "bulan": 15,
+      "denda": 3000,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.11",
+      "nama": "Kepemilikan Senjata Ilegal Class 2",
+      "deskripsi": "Kepemilikan Senjata Ilegal Class 2 melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai senjata yang termasuk dalam kategori Class 2 tanpa memiliki izin, atau kewenangan yang sah sesuai dengan peraturan yang berlaku. ",
+      "bulan": 15,
+      "denda": 4000,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.12",
+      "nama": "Kepemilikan Baju Pelindung Anti Peluru (3 - 5)",
+      "deskripsi": "Kepemilikan Baju Pelindung Anti Peluru melibatkan tindakan memiliki, menyimpan, membawa, atau menggunakan perlengkapan pelindung tubuh yang dirancang untuk menahan atau mengurangi dampak proyektil dengan jumlah 3 - 5 buah tanpa memiliki izin atau kewenangan yang sah, apabila kepemilikannya diatur atau dibatasi oleh peraturan yang berlaku. ",
+      "bulan": 15,
+      "denda": 3000,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.13",
+      "nama": "Kepemilikan Uang Merah (>$50000)",
+      "deskripsi": "Kepemilikan Uang Merah melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai uang yang dikategorikan sebagai uang ilegal atau hasil kegiatan melawan hukum tanpa memiliki izin atau kewenangan yang sah dengan jumlah lebih dari $50000. ",
+      "bulan": 20,
+      "denda": 5000,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.14",
+      "nama": "Kepemilikan Bahan Narkotika Mentah (>1000)",
+      "deskripsi": "Bahan mentah seperti: fly agaric, rye ergot, liberty cap, dan cubensis telah teruji sebagai bahan yang mengandung zat-zat narkotika. Kepemilikan Bahan Narkotika Mentah melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai bahan mentah sebanyak lebih dari 1000 buah yang termasuk atau digunakan untuk menghasilkan narkotika tanpa izin atau kewenangan yang sah. ",
+      "bulan": 20,
+      "denda": 5000,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.15",
+      "nama": "Kepemilikan Narkotika (>30)",
+      "deskripsi": "Kepemilikan Narkotika melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai narkotika sebanyak lebih dari 30 buah tanpa memiliki izin atau kewenangan yang sah sesuai dengan peraturan yang berlaku. ",
+      "bulan": 20,
+      "denda": 5000,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.16",
+      "nama": "Kepemilikan Amunisi (>500)",
+      "deskripsi": "Kepemilikan Amunisi melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai amunisi dengan jumlah lebih dari 500 butir tanpa memiliki kewenangan yang sah sesuai dengan peraturan yang berlaku. ",
+      "bulan": 20,
+      "denda": 5000,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.17",
+      "nama": "Kepemilikan Senjata Ilegal Class 3",
+      "deskripsi": "Kepemilikan Senjata Ilegal Class 3 melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai senjata yang termasuk dalam kategori Class 3 tanpa memiliki izin, atau kewenangan yang sah sesuai dengan peraturan yang berlaku. ",
+      "bulan": 20,
+      "denda": 7000,
+      "kategori": "KETERTIBAN UMUM"
+    },
+    {
+      "kode": "10.18",
+      "nama": "Kepemilikan Baju Pelindung Anti Peluru (>5)",
+      "deskripsi": "Kepemilikan Baju Pelindung Anti Peluru melibatkan tindakan memiliki, menyimpan, membawa, atau menggunakan perlengkapan pelindung tubuh yang dirancang untuk menahan atau mengurangi dampak proyektil dengan jumlah lebih dari 5 buah tanpa memiliki izin atau kewenangan yang sah, apabila kepemilikannya diatur atau dibatasi oleh peraturan yang berlaku.  ",
+      "bulan": 20,
+      "denda": 5000,
+      "kategori": "KETERTIBAN UMUM"
+    }
+  ],
+  "pasalKendaraan": [
+    {
+      "kode": "11.1",
+      "nama": "Tidak Membawa/Memiliki Surat Izin Mengemudi (SIM)",
+      "deskripsi": "Tidak Membawa/Memiliki Surat Izin Mengemudi (SIM) melibatkan tindakan mengemudikan kendaraan tanpa memiliki SIM yang sah atau tidak dapat menunjukkan SIM yang diwajibkan saat berkendara sesuai dengan peraturan ",
+      "jam": 1,
+      "bulan": 0,
+      "denda": 500,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.2",
+      "nama": "Tidak Membawa/Memiliki Surat Tanda Nomor Kendaraan (STNK)",
+      "deskripsi": "Tidak Membawa/Memiliki Surat Tanda Nomor Kendaraan (STNK) melibatkan tindakan mengoperasikan atau menggunakan kendaraan tanpa memiliki STNK yang sah atau tidak dapat menunjukkan STNK yang diwajibkan saat pemeriksaan sesuai dengan peraturan yang berlaku",
+      "jam": 2,
+      "bulan": 0,
+      "denda": 500,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.3",
+      "nama": "Berboncengan Lebih Dari 2 Orang Di Kendaraan Roda 2",
+      "deskripsi": "Berboncengan Lebih Dari 2 Orang Di Kendaraan Roda 2 melibatkan tindakan mengoperasikan sepeda motor dengan membawa lebih dari dua orang secara bersamaan, sehingga melampaui kapasitas penumpang yang diperbolehkan dan dapat membahayakan keselamatan pengendara maupun penumpang.",
+      "jam": 0,
+      "bulan": 0,
+      "denda": 750,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.4",
+      "nama": "Tidak Melengkapi Atribut Berkendara",
+      "deskripsi": "Tidak Melengkapi Atribut Berkendara melibatkan tindakan mengoperasikan kendaraan tanpa menggunakan atau membawa perlengkapan berkendara yang diwajibkan, seperti helm, sabuk pengaman, atau perlengkapan keselamatan lainnya sesuai dengan peraturan yang berlaku.",
+      "jam": 0,
+      "bulan": 0,
+      "denda": 350,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.5",
+      "nama": "Kegagalan Mematuhi Rambu Lalu Lintas",
+      "deskripsi": "Kegagalan Mematuhi Rambu Lalu Lintas melibatkan tindakan mengabaikan, melanggar, atau tidak mengikuti rambu, marka, lampu lalu lintas, maupun petunjuk lalu lintas yang berlaku saat mengoperasikan kendaraan di jalan raya.  ",
+      "jam": 0,
+      "bulan": 0,
+      "denda": 250,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.6",
+      "nama": "Menggunakan Klakson Kepolisian",
+      "deskripsi": "Menggunakan Klakson Kepolisian melibatkan tindakan memasang, menggunakan, atau mengoperasikan klakson atau sirine yang diperuntukkan bagi kendaraan kepolisian tanpa memiliki izin atau kewenangan yang sah.  ",
+      "jam": 0,
+      "bulan": 0,
+      "denda": 450,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.7",
+      "nama": "Parkir Liar",
+      "deskripsi": "Parkir Liar melibatkan tindakan memarkir atau meninggalkan kendaraan di tempat yang dilarang, tidak diperuntukkan sebagai area parkir, atau tidak sesuai dengan ketentuan rambu dan peraturan lalu lintas yang berlaku. ",
+      "jam": 1,
+      "bulan": 0,
+      "denda": 400,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.8",
+      "nama": "Melarikan Diri Dari Petugas Kepolisian",
+      "deskripsi": "Menghindari penegakan hukum, sebagaimana disebutkan sebelumnya, mengacu pada sengaja menghindari atau mencoba menghindari petugas penegak hukum yang mencoba menangkap atau menahan seseorang. Pelanggaran ini biasanya melibatkan penolakan untuk menghentikan kendaraan ketika diberi isyarat oleh penegak hukum atau terlibat dalam pengejaran kendaraan bermotor untuk menghindari penangkapan.",
+      "jam": 2,
+      "bulan": 0,
+      "denda": 850,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.9",
+      "nama": "Mengemudi Di Bawah Pengaruh Obat-Obatan & Alkohol",
+      "deskripsi": "Mengemudi Di Bawah Pengaruh Obat-Obatan & Alkohol melibatkan tindakan mengoperasikan kendaraan ketika berada di bawah pengaruh alkohol, narkotika, atau obat-obatan tertentu yang dapat mempengaruhi kemampuan mengemudi, konsentrasi, kewaspadaan, maupun pengendalian kendaraan.",
+      "jam": 5,
+      "bulan": 0,
+      "denda": 1000,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.10",
+      "nama": "Berkendara Secara Ugal-Ugalan",
+      "deskripsi": "Berkendara Secara Ugal-Ugalan melibatkan tindakan mengoperasikan kendaraan secara ceroboh, agresif, atau tidak terkendali, termasuk melakukan manuver berbahaya yang dapat membahayakan keselamatan diri sendiri maupun pengguna jalan lainnya",
+      "jam": 5,
+      "bulan": 0,
+      "denda": 1000,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.11",
+      "nama": "Kendaraan Berada Di Zona Merah",
+      "deskripsi": "Kendaraan Berada Di Zona Merah melibatkan tindakan membawa, mengoperasikan, atau menempatkan kendaraan di area yang telah ditetapkan sebagai zona merah atau wilayah terlarang tanpa memiliki izin atau kewenangan yang sah.",
+      "jam": 12,
+      "bulan": 0,
+      "denda": 700,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.12",
+      "nama": "Membantu Pelarian Pelaku Tindak Kejahatan",
+      "deskripsi": "Membantu Pelarian Pelaku Tindak Kejahatan melibatkan tindakan memberikan bantuan, fasilitas, informasi, atau sarana kepada seseorang yang melakukan tindak kejahatan dengan tujuan membantu pelaku menghindari penangkapan, pemeriksaan, atau proses hukum yang berlaku.",
+      "jam": 2,
+      "bulan": 0,
+      "denda": 750,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.13",
+      "nama": "Tabrak Lari",
+      "deskripsi": "Tabrak Lari melibatkan tindakan mengemudikan kendaraan yang terlibat dalam kecelakaan dengan orang atau kendaraan lain, kemudian meninggalkan lokasi kejadian tanpa berhenti, memberikan bantuan, atau memenuhi kewajiban sesuai dengan ketentuan yang berlaku. ",
+      "jam": 7,
+      "bulan": 0,
+      "denda": 1500,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.14",
+      "nama": "Terdapat Barang Ilegal (<250pcs)",
+      "deskripsi": "Terdapat Barang Ilegal melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai barang sebanyak kurang dari 250pcs yang dilarang atau diperoleh secara melawan hukum tanpa izin atau kewenangan yang sah sesuai dengan peraturan yang berlaku.",
+      "jam": 4,
+      "bulan": 0,
+      "denda": 1000,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.15",
+      "nama": "Terdapat Barang Ilegal (250 - 500pcs)",
+      "deskripsi": "Terdapat Barang Ilegal melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai barang sebanyak 250 - 500pcs yang dilarang atau diperoleh secara melawan hukum tanpa izin atau kewenangan yang sah sesuai dengan peraturan yang berlaku",
+      "jam": 5,
+      "bulan": 0,
+      "denda": 1200,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.15",
+      "nama": "Terdapat Barang Ilegal (250 - 500pcs)",
+      "deskripsi": "Terdapat Barang Ilegal melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai barang sebanyak 250 - 500pcs yang dilarang atau diperoleh secara melawan hukum tanpa izin atau kewenangan yang sah sesuai dengan peraturan yang berlaku",
+      "jam": 5,
+      "bulan": 0,
+      "denda": 1200,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.16",
+      "nama": "Terdapat Barang Ilegal (500 - 1000pcs)",
+      "deskripsi": "Terdapat Barang Ilegal melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai barang sebanyak 500 - 1000pcs yang dilarang atau diperoleh secara melawan hukum tanpa izin atau kewenangan yang sah sesuai dengan peraturan yang berlaku",
+      "jam": 6,
+      "bulan": 0,
+      "denda": 1500,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.17",
+      "nama": "Terdapat Barang Ilegal (>1500pcs)",
+      "deskripsi": "Terdapat Barang Ilegal melibatkan tindakan memiliki, menyimpan, membawa, atau menguasai barang sebanyak lebih dari 1500pcs yang dilarang atau diperoleh secara melawan hukum tanpa izin atau kewenangan yang sah sesuai dengan peraturan yang berlaku",
+      "jam": 24,
+      "bulan": 0,
+      "denda": 2000,
+      "kategori": "KENDARAAN"
+    },
+    {
+      "kode": "11.18",
+      "nama": "Tidak Memberi Jalan Pada Kendaraan Darurat",
+      "deskripsi": "Merujuk pada pelanggaran karena tidak memberikan hak jalan atau tidak mengalah pada kendaraan darurat yang ditunjuk yang sedang mengoperasikan lampu darurat dan/atau sirene. Saat kendaraan darurat seperti mobil polisi, ambulans, atau truk pemadam kebakaran sedang merespons situasi darurat , sangat penting bagi pengemudi lain untuk mengalah dan membiarkan mereka lewat dengan aman",
+      "jam": 2,
+      "bulan": 0,
+      "denda": 1000,
+      "kategori": "KENDARAAN"
+    }
+    
+  ]
+}

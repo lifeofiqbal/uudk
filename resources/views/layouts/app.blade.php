@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Penal Code SIXNINE - kalkulator pasal, denda, dan masa tahanan.">
+    <meta name="description" content="Undang-Undang Kepolisian Dunia Kita - kalkulator pasal, denda, dan masa tahanan.">
     <meta name="theme-color" content="#0b0a12">
     <title>@yield('title', config('app.name'))</title>
     <link rel="icon" href="{{ asset('favicon.ico') }}">

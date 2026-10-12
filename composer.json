@@ -1,12 +1,12 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "sixnine/penal-code",
+    "name": "duniakita/penal-code",
     "type": "project",
-    "description": "Penal Code SIXNINE - kalkulator pasal, denda, dan masa tahanan.",
+    "description": "Undang-Undang Kepolisian Dunia Kita - kalkulator pasal, denda, dan masa tahanan.",
     "keywords": [
         "laravel",
         "penal-code",
-        "sixnine"
+        "duniakita"
     ],
     "license": "MIT",
     "require": {

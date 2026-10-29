@@ -38,7 +38,7 @@
                     <p class="mb-1 font-semibold">PERATURAN:</p>
                     <ol class="list-decimal space-y-1 pl-5">
                         <li><b>Maksimal hanya memilih {{ $settings['maxPasal'] }} pasal</b> undang-undang.</li>
-                        <li><b>Denda mengambil dari yang tertinggi Masa tahanan di akumulasikan.</b> Sesuai ketentuan yang berlaku.</li>
+                        <li><b>Denda dan masa tahanan di akumulasikan.</b> Sesuai ketentuan yang berlaku.</li>
                     </ol>
 
                     <div class="mt-2 text-xs text-gray-500">

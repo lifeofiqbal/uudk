@@ -216,7 +216,7 @@
       if (!found) return;
       const { pasal, source } = found;
       items.push({ pasal, source });
-      denda = Math.max(denda, toNumber(pasal.denda));
+      denda += toNumber(pasal.denda);
       if (source === "Kendaraan") jam += toNumber(pasal.jam);
       else bulan += toNumber(pasal.bulan);
     });

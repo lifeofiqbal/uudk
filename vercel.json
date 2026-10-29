@@ -23,7 +23,7 @@
         "CACHE_STORE": "array",
         "SESSION_DRIVER": "cookie",
         "LOG_CHANNEL": "stderr",
-        "PENAL_MAX_PASAL": "7",
+        "PENAL_MAX_PASAL": "3",
         "PENAL_DPO_MULTIPLIER": "2"
     }
 }

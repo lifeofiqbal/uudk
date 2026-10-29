@@ -11,7 +11,7 @@
     currentTab: "Umum",
     selectedCodes: new Set(),
     index: new Map(),
-    maxPasal: 7,
+    maxPasal: 3,
     dpoMultiplier: 2,
     toastTimer: null,
   };
@@ -42,7 +42,7 @@
     const data = parsed.data || {};
     const settings = parsed.settings || {};
 
-    state.maxPasal = Number(settings.maxPasal) > 0 ? Number(settings.maxPasal) : 7;
+    state.maxPasal = Number(settings.maxPasal) > 0 ? Number(settings.maxPasal) : 3;
     state.dpoMultiplier = Number(settings.dpoMultiplier) > 0 ? Number(settings.dpoMultiplier) : 2;
     state.kategoriUmumOrder = asArray(data.kategoriUmumOrder);
     state.pasal.Umum = asArray(data.pasalUmum);
